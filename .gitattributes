@@ -1,0 +1,30 @@
+# Normalize line endings for all text files
+* text=auto
+
+# Ensure shell scripts use LF (important for Unix-based CI/CD)
+*.sh text eol=lf
+
+# Treat batch files as text with CRLF (Windows)
+*.bat text eol=crlf
+
+
+# JSON and YAML configs
+*.json text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+
+# Ignore normalization for binary files
+*.png binary
+*.jpg binary
+*.zip binary
+*.exe binary
+
+# Mark test result logs as text
+*.log text
+
+# Prevent merge conflicts in lock files
+*.lock merge=ours
+
+# Exclude temporary test artifacts from archives
+test-output/* export-ignore
+coverage/* export-ignore
