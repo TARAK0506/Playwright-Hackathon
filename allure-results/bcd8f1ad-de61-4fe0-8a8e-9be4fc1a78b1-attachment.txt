@@ -1,0 +1,4 @@
+
+Scraping data from Page no : 1...
+Data saved to C:\Users\2414380\OneDrive - Cognizant\Documents\Final Hackathon\IKEA Automation\data\results.json
+Successfully scraped data from all the pages.

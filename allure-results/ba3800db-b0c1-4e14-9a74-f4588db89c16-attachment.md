@@ -1,0 +1,78 @@
+# Page snapshot
+
+```yaml
+- link "Skip to main content":
+  - /url: "#hnf-content"
+- banner:
+  - button "Change language or country/region, current language is English": INEnglish
+  - 'link "IKEA Sale is on: Enjoy up to 70% off*"':
+    - /url: https://www.ikea.com/in/en/offers/limited-time-offers/
+  - button "Enter postal code"
+  - button "Select store"
+  - link "IKEA Home":
+    - /url: https://www.ikea.com/in/en/
+  - search:
+    - combobox "Search for products, inspiration or new arrivals": Book Shelves
+    - button "Clear the search input field"
+    - button "Search"
+  - navigation "shopping-links":
+    - button "Hej! Log in"
+    - link "Shopping list":
+      - /url: https://www.ikea.com/in/en/favourites/
+    - link "Shopping bag":
+      - /url: https://www.ikea.com/in/en/shoppingcart/
+- navigation:
+  - tablist:
+    - tab "Shop products" [selected]
+    - tab "Shop by rooms"
+    - tab "Offers"
+    - tab "New at IKEA"
+    - tab "Customer service"
+    - tab "IKEA for Business"
+    - tab "Tips, ideas & trends"
+    - tab "More"
+  - tabpanel:
+    - link "Skip listing":
+      - /url: "#hnf--carousel__tabs-navigation-products-skip-btn"
+    - button "Up to 70% off"
+    - button "Furniture"
+    - button "Storage & organisation"
+    - button "Sofas & armchairs"
+    - button "Office furniture"
+    - button "Tables & chairs"
+    - button "Beds & mattresses"
+    - button "Kitchenware & tableware"
+    - button "Home Decor"
+    - button "Home textiles"
+    - button "Outdoor products"
+    - button "Lighting"
+    - button "Small storage & organisers"
+    - button "Modular kitchens"
+    - button "Bathroom products"
+    - button "Baby & children"
+    - button "Rugs and mats"
+    - button "Laundry & cleaning"
+    - button "Pots & plants"
+    - button "Food & beverages"
+    - button "Home improvement"
+    - button "Smart home"
+    - button "Home electronics"
+    - button "Pet products"
+    - button "Christmas Collections"
+- main:
+  - paragraph
+- contentinfo
+- region "Cookie consent banner":
+  - dialog "You are in control of your own cookies":
+    - heading "You are in control of your own cookies" [level=2]
+    - paragraph: "IKEA India and our digital partners use cookies on this site. Some are strictly necessary to run the site but below are the optional ones:"
+    - list:
+      - listitem: Used for measuring how the site is used
+      - listitem: Enabling personalisation of the site
+      - listitem: For advertising marketing and social media
+    - link ", opens in a new tab":
+      - /url: https://www.ikea.com/in/en/customer-service/cookie-policy-pubffc638db
+      - text: Read more about these cookies
+    - button "Ok"
+    - button "Cookies Settings, Opens the preference center dialog": Cookies Settings
+```

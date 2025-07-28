@@ -1,0 +1,672 @@
+# Page snapshot
+
+```yaml
+- link "Skip to main content":
+  - /url: "#hnf-content"
+- banner:
+  - button "Change language or country/region, current language is English": INEnglish
+  - 'link "IKEA Sale is on: Enjoy up to 70% off*"':
+    - /url: https://www.ikea.com/in/en/offers/limited-time-offers/
+  - button "Enter postal code"
+  - button "Select store"
+  - link "IKEA Home":
+    - /url: https://www.ikea.com/in/en/
+  - search:
+    - combobox "Search for products, inspiration or new arrivals"
+    - button "Search IKEA products using a photo"
+  - navigation "shopping-links":
+    - button "Hej! Log in"
+    - link "Shopping list":
+      - /url: https://www.ikea.com/in/en/favourites/
+    - link "Shopping bag":
+      - /url: https://www.ikea.com/in/en/shoppingcart/
+- navigation:
+  - tablist:
+    - tab "Shop products" [selected]
+    - tab "Shop by rooms"
+    - tab "Offers"
+    - tab "New at IKEA"
+    - tab "Customer service"
+    - tab "IKEA for Business"
+    - tab "Tips, ideas & trends"
+    - tab "More"
+  - tabpanel:
+    - link "Skip listing":
+      - /url: "#hnf--carousel__tabs-navigation-products-skip-btn"
+    - button "Up to 70% off"
+    - button "Furniture"
+    - button "Storage & organisation"
+    - button "Sofas & armchairs"
+    - button "Office furniture"
+    - button "Tables & chairs"
+    - button "Beds & mattresses"
+    - button "Kitchenware & tableware"
+    - button "Home Decor"
+    - button "Home textiles"
+    - button "Outdoor products"
+    - button "Lighting"
+    - button "Small storage & organisers"
+    - button "Modular kitchens"
+    - button "Bathroom products"
+    - button "Baby & children"
+    - button "Rugs and mats"
+    - button "Laundry & cleaning"
+    - button "Pots & plants"
+    - button "Food & beverages"
+    - button "Home improvement"
+    - button "Smart home"
+    - button "Home electronics"
+    - button "Pet products"
+    - button "Christmas Collections"
+    - button "See next items"
+- button "Start Chat":
+  - img
+- main:
+  - article:
+    - heading "Welcome to IKEA India" [level=1]
+    - link "Skip listing":
+      - /url: "#P0-1"
+    - link "Explore now":
+      - /url: https://www.ikea.com/in/en/offers/limited-time-offers/?filters=f-availability%3AAVAILABLE_ONLINE#product-list-skip
+      - paragraph: Explore now
+    - text: Sorry, your browser doesn’t support embedded videos.
+    - button "Pause video"
+    - link "Up to 50% on kitchenware & tableware":
+      - /url: https://www.ikea.com/in/en/offers/limited-time-offers/?filters=f-availability%3AAVAILABLE_ONLINE%2Cf-subcategories%3Akt001#product-list-skip
+      - paragraph: Up to 50% on kitchenware & tableware
+    - img "[unpopulated]"
+    - link "Up to 70% off on Textiles":
+      - /url: https://www.ikea.com/in/en/offers/limited-time-offers/?filters=f-availability%3AAVAILABLE_ONLINE%2Cf-subcategories%3Atl001#product-list-skip
+      - paragraph: Up to 70% off on Textiles
+    - img "A white/with heading tape SILVERLÖNN sheer curtains, 1 pair"
+    - link "Up to 60% off on Decoration":
+      - /url: https://www.ikea.com/in/en/offers/limited-time-offers/?filters=f-subcategories%3Ade001%2Cf-type%3AMirror%7CFrame%7CArtificial%20flower%7CArtificial%20potted%20plant%7C62373%7CPlant%20pot%7CWall%20decoration%7C62365%7CVase#product-list-skip
+      - paragraph: Up to 60% off on Decoration
+    - img "An in/outdoor/Rose white SMYCKA artificial flower"
+    - link "Up to 70% off on furniture":
+      - /url: https://www.ikea.com/in/en/offers/limited-time-offers/?filters=f-availability%3AAVAILABLE_IN_STORE%7CAVAILABLE_ONLINE&sort=PRICE_HIGH_TO_LOW
+      - paragraph: Up to 70% off on furniture
+    - img "A Vansbro black KLIPPAN 2-seat sofa"
+    - heading "Shop by category" [level=2]
+    - link "Skip listing":
+      - /url: "#hri--carousel__P0-1-skip-btn"
+    - list:
+      - listitem:
+        - link "Explore all products on offer":
+          - /url: https://www.ikea.com/in/en/offers/limited-time-offers/?filters=f-availability%3AAVAILABLE_ONLINE#product-list-skip
+          - heading "Explore all products on offer" [level=3]
+      - listitem:
+        - link "Up to 40% off on Office furniture":
+          - /url: https://www.ikea.com/in/en/offers/limited-time-offers/?filters=f-subcategories%3Afu004#product-list-skip
+      - listitem:
+        - link "Up to 60% off on Lighting":
+          - /url: https://www.ikea.com/in/en/offers/limited-time-offers/?filters=f-availability%3AAVAILABLE_ONLINE%2Cf-subcategories%3Ali001#product-list-skip
+      - listitem:
+        - link "Up to 70% off on Small storage & organisers":
+          - /url: https://www.ikea.com/in/en/offers/limited-time-offers/?filters=f-availability%3AAVAILABLE_ONLINE%2Cf-subcategories%3Ast007#product-list-skip
+      - listitem:
+        - link "Up to 70% off on Sofa & armchairs":
+          - /url: https://www.ikea.com/in/en/offers/limited-time-offers/?filters=f-availability%3AAVAILABLE_ONLINE%2Cf-subcategories%3A700640#product-list-skip
+      - listitem:
+        - link "Up to 60% off on Bathroom products":
+          - /url: https://www.ikea.com/in/en/offers/limited-time-offers/?filters=f-availability%3AAVAILABLE_ONLINE%2Cf-subcategories%3Aba001#product-list-skip
+      - listitem:
+        - link "Up to 30% off on Dining furniture":
+          - /url: https://www.ikea.com/in/en/offers/limited-time-offers/?filters=f-availability%3AAVAILABLE_ONLINE%2Cf-subcategories%3A700417&sort=NAME_ASCENDING#product-list-skip
+      - listitem:
+        - link "Up to 30% off on kitchenware & tableware":
+          - /url: https://www.ikea.com/in/en/offers/limited-time-offers/?filters=f-availability%3AAVAILABLE_ONLINE%2Cf-subcategories%3Akt001#product-list-skip
+      - listitem:
+        - link "Up to 50% off on Children's IKEA":
+          - /url: https://www.ikea.com/in/en/offers/limited-time-offers/?filters=f-availability%3AAVAILABLE_ONLINE%2Cf-subcategories%3Abc001#product-list-skip
+      - listitem:
+        - link "Up to 30% off on Pots & plants":
+          - /url: https://www.ikea.com/in/en/offers/limited-time-offers/?filters=f-subcategories%3App001#product-list-skip
+      - listitem:
+        - link "Up to 50% off on Rugs":
+          - /url: https://www.ikea.com/in/en/offers/limited-time-offers/?filters=f-availability%3AAVAILABLE_ONLINE%2Cf-subcategories%3Arm001#product-list-skip
+      - listitem:
+        - link "Up to 60% off on Furniture":
+          - /url: https://www.ikea.com/in/en/offers/limited-time-offers/?filters=f-availability%3AAVAILABLE_IN_STORE%7CAVAILABLE_ONLINE%2Cf-price-buckets%3APRICE_80000_9223372036854775807&sort=PRICE_HIGH_TO_LOW#product-list-skip
+    - link "Skip listing":
+      - /url: "#P0-1"
+    - link "New Home textiles":
+      - /url: https://www.ikea.com/in/en/new/new-products/?%20?filters=f-subcategories%3Atl004&filters=f-subcategories%3Atl001#product-list-skip
+      - text: New
+      - paragraph: Home textiles
+    - img "A yellow and white floral-patterned KLIPPAN cover for 2-seat sofa on a sofa in a vivid living room with an orange back wall."
+    - link "What's new at IKEA?":
+      - /url: https://www.ikea.com/in/en/new/new-products/?filters=f-online-sellable%3Atrue#product-list-skip
+      - heading "What's new at IKEA?" [level=2]
+    - paragraph: Discover our latest arrivals.
+    - link "New Small storage & organisers":
+      - /url: https://www.ikea.com/in/en/new/new-products/?filters=f-subcategories%3Ast007#product-list-skip
+      - text: New
+      - paragraph: Small storage & organisers
+    - img "A lilac/green PRUTA sandwich container with lid"
+    - link "New Mirrors":
+      - /url: https://www.ikea.com/in/en/new/new-products/?sort=MOST_POPULAR&filters=f-online-sellable%3Atrue%2Cf-subcategories%3A20489#product-list-skip
+      - text: New
+      - paragraph: Mirrors
+    - img "An oak veneer STOCKHOLM 2025 mirror"
+    - link "New Dining furniture":
+      - /url: https://www.ikea.com/in/en/new/new-products/?filters=f-availability%3AAVAILABLE_ONLINE%2Cf-subcategories%3A700417&sort=NAME_ASCENDING
+      - text: New
+      - paragraph: Dining furniture
+    - img "[unpopulated]"
+    - heading "Popular picks" [level=2]
+    - link "Skip listing":
+      - /url: "#hri--carousel__P0-1-skip-btn"
+    - list:
+      - listitem:
+        - link "Everyday essentials under Rs.199":
+          - /url: https://www.ikea.com/in/en/search/?group=Everyday%20essential%20under%20Rs.199
+        - img "A white OFTAST plate in the dining room"
+      - listitem:
+        - link "Lamps from Rs. 399":
+          - /url: https://www.ikea.com/in/en/cat/lamps-li002/?sort=NEWEST&filters=f-subcategories%3A18750|10732|10731|10803|20502|20506|18773|700512|59308#product-list-skip
+        - img "A white/copper-colour ÖVERUD lampshade"
+      - listitem:
+        - link "Office chairs from Rs. 2,490":
+          - /url: https://www.ikea.com/in/en/cat/desk-chairs-20652/?sort=PRICE_LOW_TO_HIGH&filters=f-availability%3AAVAILABLE_ONLINE%2Cf-measurement-buckets%3AWIDTH_60_80#product-list-skip
+        - img "A black FLINTAN office chair in the home office"
+      - listitem:
+        - link "TV units from Rs. 1,790":
+          - /url: https://www.ikea.com/in/en/cat/tv-media-furniture-10475/?sort=PRICE_LOW_TO_HIGH&filters=f-availability%3AAVAILABLE_ONLINE#product-list-skip
+        - img "A white VINDUM rug, high pile in the living room"
+      - listitem:
+        - link "Rugs from Rs. 99":
+          - /url: https://www.ikea.com/in/en/cat/rugs-10653/?sort=PRICE_LOW_TO_HIGH&filters=f-availability%3AAVAILABLE_ONLINE#product-list-skip
+        - img "A beige MORUM rug flatwoven, in/outdoor"
+      - listitem:
+        - link "Toys & play from Rs. 199":
+          - /url: https://www.ikea.com/in/en/cat/toys-play-18734/?sort=PRICE_LOW_TO_HIGH&filters=f-availability%3AAVAILABLE_ONLINE%2Cf-subcategories%3A18740#product-list-skip
+        - img "A rabbit pattern/white/beige RÖDHAKE duvet cover 1 pillowcase for cot in the childrens room"
+      - listitem:
+        - link "Dinnerware from Rs. 69":
+          - /url: https://www.ikea.com/in/en/cat/dinnerware-18860/?sort=PRICE_LOW_TO_HIGH&filters=f-availability%3AAVAILABLE_ONLINE#product-list-skip
+        - img "A MOPSIG 16-piece cutlery set in the dining room"
+      - listitem:
+        - link "Trolleys from Rs. 949":
+          - /url: https://www.ikea.com/in/en/cat/trolleys-fu005/?sort=PRICE_LOW_TO_HIGH&filters=f-availability%3AAVAILABLE_ONLINE#product-list-skip
+        - img "A black RÅSKOG trolley"
+      - listitem:
+        - link "Small storage from Rs. 19":
+          - /url: https://www.ikea.com/in/en/cat/storage-boxes-baskets-10550/?sort=PRICE_LOW_TO_HIGH&filters=f-availability%3AAVAILABLE_ONLINE#product-list-skip
+        - img "A black DRÖNA box"
+    - heading "Today's best deals" [level=2]
+    - list:
+      - listitem:
+        - button "Sale is on!" [pressed]
+      - listitem:
+        - button "New lower price"
+      - listitem:
+        - button "Our lowest price"
+      - listitem:
+        - button "Last chance"
+    - link "Skip listing":
+      - /url: "#hri--carousel__hri-deals-carousel-skip-btn"
+    - list:
+      - listitem:
+        - link "Top seller SKUBB Box, set of 6, dark grey SKUBB Box, set of 6, dark grey":
+          - /url: https://www.ikea.com/in/en/p/skubb-box-set-of-6-dark-grey-00472957/
+          - text: Top seller
+          - img "SKUBB Box, set of 6, dark grey"
+          - img "SKUBB Box, set of 6, dark grey"
+        - 'link "SKUBB Box, set of 6 Previous price Rs. 599 Price Rs. 499 Price valid Jul 24 - Aug 18 or while supply lasts Review: 4.7 out of 5 stars. Total reviews: 5877 (5877) More options"':
+          - /url: https://www.ikea.com/in/en/p/skubb-box-set-of-6-dark-grey-00472957/
+          - heading "SKUBB Box, set of 6" [level=3]
+          - text: Previous price Rs. 599 Price Rs. 499 Price valid Jul 24 - Aug 18 or while supply lasts
+          - 'img "Review: 4.7 out of 5 stars. Total reviews: 5877"'
+          - text: (5877) More options
+        - button "Add to bag, SKUBB, box, set of 6, dark grey"
+        - button "Add to shopping cart, SKUBB, box, set of 6, dark grey"
+      - listitem:
+        - link "DVALA Fitted sheet, white, 180x200 cm DVALA Fitted sheet, white, 180x200 cm":
+          - /url: https://www.ikea.com/in/en/p/dvala-fitted-sheet-white-20356565/
+          - img "DVALA Fitted sheet, white, 180x200 cm"
+          - img "DVALA Fitted sheet, white, 180x200 cm"
+        - 'link "DVALA Fitted sheet, 180x200 cm (71x79 \") Previous price Rs. 999 Price Rs. 799 Price valid Jul 24 - Aug 18 or while supply lasts Review: 4.4 out of 5 stars. Total reviews: 10262 (10262) More options"':
+          - /url: https://www.ikea.com/in/en/p/dvala-fitted-sheet-white-20356565/
+          - heading "DVALA Fitted sheet, 180x200 cm (71x79 \")" [level=3]
+          - text: Previous price Rs. 999 Price Rs. 799 Price valid Jul 24 - Aug 18 or while supply lasts
+          - 'img "Review: 4.4 out of 5 stars. Total reviews: 10262"'
+          - text: (10262) More options
+        - button "Add to bag, DVALA, fitted sheet, white"
+        - button "Add to shopping cart, DVALA, fitted sheet, white"
+      - listitem:
+        - link "BENGTA Block-out curtain, 1 piece, beige/with heading tape, 210x250 cm BENGTA Block-out curtain, 1 piece, beige/with heading tape, 210x250 cm":
+          - /url: https://www.ikea.com/in/en/p/bengta-block-out-curtain-1-piece-beige-with-heading-tape-50602150/
+          - img "BENGTA Block-out curtain, 1 piece, beige/with heading tape, 210x250 cm"
+          - img "BENGTA Block-out curtain, 1 piece, beige/with heading tape, 210x250 cm"
+        - 'link "New BENGTA Block-out curtain, 1 piece, 210x250 cm (83x98 \") Previous price Rs. 999 Price Rs. 799 Price valid Jul 24 - Aug 18 or while supply lasts Review: 4.2 out of 5 stars. Total reviews: 152 (152) More options"':
+          - /url: https://www.ikea.com/in/en/p/bengta-block-out-curtain-1-piece-beige-with-heading-tape-50602150/
+          - text: New
+          - heading "BENGTA Block-out curtain, 1 piece, 210x250 cm (83x98 \")" [level=3]
+          - text: Previous price Rs. 999 Price Rs. 799 Price valid Jul 24 - Aug 18 or while supply lasts
+          - 'img "Review: 4.2 out of 5 stars. Total reviews: 152"'
+          - text: (152) More options
+        - button "Add to bag, BENGTA, block-out curtain, 1 piece, beige/with heading tape"
+        - button "Add to shopping cart, BENGTA, block-out curtain, 1 piece, beige/with heading tape"
+      - listitem:
+        - link "GLADELIG Plate, blue, 12x7 cm GLADELIG Plate, blue, 12x7 cm":
+          - /url: https://www.ikea.com/in/en/p/gladelig-plate-blue-80503629/
+          - img "GLADELIG Plate, blue, 12x7 cm"
+          - img "GLADELIG Plate, blue, 12x7 cm"
+        - 'link "GLADELIG Plate, 12x7 cm (5x3 \") Previous price Rs. 599 Price Rs. 509/4 pack Price valid Jul 24 - Aug 18 or while supply lasts Review: 4.4 out of 5 stars. Total reviews: 68 (68) More options"':
+          - /url: https://www.ikea.com/in/en/p/gladelig-plate-blue-80503629/
+          - heading "GLADELIG Plate, 12x7 cm (5x3 \")" [level=3]
+          - text: Previous price Rs. 599 Price Rs. 509/4 pack Price valid Jul 24 - Aug 18 or while supply lasts
+          - 'img "Review: 4.4 out of 5 stars. Total reviews: 68"'
+          - text: (68) More options
+        - button "Add to bag, GLADELIG, plate, blue"
+        - button "Add to shopping cart, GLADELIG, plate, blue"
+      - listitem:
+        - link "Top seller MICKE Desk, white, 105x50 cm MICKE Desk, white, 105x50 cm":
+          - /url: https://www.ikea.com/in/en/p/micke-desk-white-80354276/
+          - text: Top seller
+          - img "MICKE Desk, white, 105x50 cm"
+          - img "MICKE Desk, white, 105x50 cm"
+        - 'link "MICKE Desk, 105x50 cm (41 3/8x19 5/8 \") Previous price Rs. 9990 Price Rs. 7990 Price valid Jul 24 - Aug 18 or while supply lasts Review: 4.5 out of 5 stars. Total reviews: 5817 (5817) More options"':
+          - /url: https://www.ikea.com/in/en/p/micke-desk-white-80354276/
+          - heading "MICKE Desk, 105x50 cm (41 3/8x19 5/8 \")" [level=3]
+          - text: Previous price Rs. 9990 Price Rs. 7990 Price valid Jul 24 - Aug 18 or while supply lasts
+          - 'img "Review: 4.5 out of 5 stars. Total reviews: 5817"'
+          - text: (5817) More options
+        - button "Add to bag, MICKE, desk, white"
+        - button "Add to shopping cart, MICKE, desk, white"
+      - listitem:
+        - link "Top seller FEJKA Artificial potted plant with pot, in/outdoor Succulent, 6 cm 3 pack FEJKA Artificial potted plant with pot, in/outdoor Succulent, 6 cm 3 pack":
+          - /url: https://www.ikea.com/in/en/p/fejka-artificial-potted-plant-with-pot-in-outdoor-succulent-20519765/
+          - text: Top seller
+          - img "FEJKA Artificial potted plant with pot, in/outdoor Succulent, 6 cm 3 pack"
+          - img "FEJKA Artificial potted plant with pot, in/outdoor Succulent, 6 cm 3 pack"
+        - 'link "FEJKA Artificial potted plant with pot, 6 cm 3 pack (2 ¼ \" 3 pack) Previous price Rs. 249 Price Rs. 199/3 pack Price valid Jul 24 - Aug 18 or while supply lasts Review: 4.4 out of 5 stars. Total reviews: 114 (114)"':
+          - /url: https://www.ikea.com/in/en/p/fejka-artificial-potted-plant-with-pot-in-outdoor-succulent-20519765/
+          - heading "FEJKA Artificial potted plant with pot, 6 cm 3 pack (2 ¼ \" 3 pack)" [level=3]
+          - text: Previous price Rs. 249 Price Rs. 199/3 pack Price valid Jul 24 - Aug 18 or while supply lasts
+          - 'img "Review: 4.4 out of 5 stars. Total reviews: 114"'
+          - text: (114)
+        - button "Add to bag, FEJKA, artificial potted plant with pot, in/outdoor Succulent"
+        - button "Add to shopping cart, FEJKA, artificial potted plant with pot, in/outdoor Succulent"
+      - listitem:
+        - link "BYMOTT Curtains, 1 pair, white/beige striped/with heading tape, 120x250 cm BYMOTT Curtains, 1 pair, white/beige striped/with heading tape, 120x250 cm":
+          - /url: https://www.ikea.com/in/en/p/bymott-curtains-1-pair-white-beige-striped-with-heading-tape-20509969/
+          - img "BYMOTT Curtains, 1 pair, white/beige striped/with heading tape, 120x250 cm"
+          - img "BYMOTT Curtains, 1 pair, white/beige striped/with heading tape, 120x250 cm"
+        - 'link "BYMOTT Curtains, 1 pair, 120x250 cm (47x98 \") Previous price Rs. 799 Price Rs. 649 Price valid Jul 24 - Aug 18 or while supply lasts Review: 4.6 out of 5 stars. Total reviews: 372 (372) More options"':
+          - /url: https://www.ikea.com/in/en/p/bymott-curtains-1-pair-white-beige-striped-with-heading-tape-20509969/
+          - heading "BYMOTT Curtains, 1 pair, 120x250 cm (47x98 \")" [level=3]
+          - text: Previous price Rs. 799 Price Rs. 649 Price valid Jul 24 - Aug 18 or while supply lasts
+          - 'img "Review: 4.6 out of 5 stars. Total reviews: 372"'
+          - text: (372) More options
+        - button "Add to bag, BYMOTT, curtains, 1 pair, white/beige striped/with heading tape"
+        - button "Add to shopping cart, BYMOTT, curtains, 1 pair, white/beige striped/with heading tape"
+      - listitem:
+        - link "Top seller LILJETRÄD Mirror, black, 30x115 cm LILJETRÄD Mirror, black, 30x115 cm":
+          - /url: https://www.ikea.com/in/en/p/liljetraed-mirror-black-20551048/
+          - text: Top seller
+          - img "LILJETRÄD Mirror, black, 30x115 cm"
+          - img "LILJETRÄD Mirror, black, 30x115 cm"
+        - 'link "LILJETRÄD Mirror, 30x115 cm (11 3/4x45 1/4 \") Previous price Rs. 1990 Price Rs. 1690 Price valid Jul 24 - Aug 18 or while supply lasts Review: 4.2 out of 5 stars. Total reviews: 30 (30)"':
+          - /url: https://www.ikea.com/in/en/p/liljetraed-mirror-black-20551048/
+          - heading "LILJETRÄD Mirror, 30x115 cm (11 3/4x45 1/4 \")" [level=3]
+          - text: Previous price Rs. 1990 Price Rs. 1690 Price valid Jul 24 - Aug 18 or while supply lasts
+          - 'img "Review: 4.2 out of 5 stars. Total reviews: 30"'
+          - text: (30)
+        - button "Add to bag, LILJETRÄD, mirror, black"
+        - button "Add to shopping cart, LILJETRÄD, mirror, black"
+      - listitem:
+        - link "ROSENMANDEL Room darkening curtains, 1 pair, yellow-beige/with heading tape, 135x250 cm ROSENMANDEL Room darkening curtains, 1 pair, yellow-beige/with heading tape, 135x250 cm":
+          - /url: https://www.ikea.com/in/en/p/rosenmandel-room-darkening-curtains-1-pair-yellow-beige-with-heading-tape-50539074/
+          - img "ROSENMANDEL Room darkening curtains, 1 pair, yellow-beige/with heading tape, 135x250 cm"
+          - img "ROSENMANDEL Room darkening curtains, 1 pair, yellow-beige/with heading tape, 135x250 cm"
+        - 'link "ROSENMANDEL Room darkening curtains, 1 pair, 135x250 cm (53x98 \") Previous price Rs. 2490 Price Rs. 1990 Price valid Jul 24 - Aug 18 or while supply lasts Review: 4.2 out of 5 stars. Total reviews: 510 (510) More options"':
+          - /url: https://www.ikea.com/in/en/p/rosenmandel-room-darkening-curtains-1-pair-yellow-beige-with-heading-tape-50539074/
+          - heading "ROSENMANDEL Room darkening curtains, 1 pair, 135x250 cm (53x98 \")" [level=3]
+          - text: Previous price Rs. 2490 Price Rs. 1990 Price valid Jul 24 - Aug 18 or while supply lasts
+          - 'img "Review: 4.2 out of 5 stars. Total reviews: 510"'
+          - text: (510) More options
+        - button "Add to bag, ROSENMANDEL, room darkening curtains, 1 pair, yellow-beige/with heading tape"
+        - button "Add to shopping cart, ROSENMANDEL, room darkening curtains, 1 pair, yellow-beige/with heading tape"
+      - listitem:
+        - link "TIMJANSMOTT Flat sheet and 2 pillowcase, 240x260/50x80 cm TIMJANSMOTT Flat sheet and 2 pillowcase, 240x260/50x80 cm":
+          - /url: https://www.ikea.com/in/en/p/timjansmott-flat-sheet-and-2-pillowcase-60588907/
+          - img "TIMJANSMOTT Flat sheet and 2 pillowcase, 240x260/50x80 cm"
+          - img "TIMJANSMOTT Flat sheet and 2 pillowcase, 240x260/50x80 cm"
+        - 'link "TIMJANSMOTT Flat sheet and 2 pillowcase, 240x260/50x80 cm (94x102/20x31 \") Previous price Rs. 1790 Price Rs. 1390 Price valid Jul 24 - Aug 18 or while supply lasts Review: 5 out of 5 stars. Total reviews: 7 (7) More options"':
+          - /url: https://www.ikea.com/in/en/p/timjansmott-flat-sheet-and-2-pillowcase-60588907/
+          - heading "TIMJANSMOTT Flat sheet and 2 pillowcase, 240x260/50x80 cm (94x102/20x31 \")" [level=3]
+          - text: Previous price Rs. 1790 Price Rs. 1390 Price valid Jul 24 - Aug 18 or while supply lasts
+          - 'img "Review: 5 out of 5 stars. Total reviews: 7"'
+          - text: (7) More options
+        - button "Add to bag, TIMJANSMOTT, flat sheet and 2 pillowcase"
+        - button "Add to shopping cart, TIMJANSMOTT, flat sheet and 2 pillowcase"
+    - link "Sale is on!":
+      - /url: https://www.ikea.com/in/en/offers/limited-time-offers/
+      - heading "Sale is on!" [level=3]
+    - paragraph: Time is ticking on these limited time offers. It’s now or never to grab a deal on furniture and home accessories!
+    - link "Skip listing":
+      - /url: "#P0-1"
+    - link "Ready for any rain forecast":
+      - /url: https://www.ikea.com/in/en/campaigns/prepare-for-the-monsoons-pub04b62b00/
+      - paragraph: Ready for any rain forecast
+    - img "A white MULIG in/outdoor drying rack in a balcony corner has its two wings folded in with a hanging dryer on it."
+    - link "Celebrate the unbreakable sibling bond":
+      - /url: https://www.ikea.com/in/en/ideas/gift-ideas/gifts-for-sibling-pub45f27580/
+      - paragraph: Celebrate the unbreakable sibling bond
+    - img "A white FUBBLA LED wall lamp in the childrens room"
+    - link "How to match your workspace to your style":
+      - /url: https://www.ikea.com/in/en/ideas/4-home-office-setup-ideas-pub2a3789f0/
+      - paragraph: How to match your workspace to your style
+    - img "An anthracite ELLOVEN monitor stand with drawer"
+    - link "Shop now and get up to Rs.5 Lakh* back!":
+      - /url: https://www.ikea.com/in/en/ikea-business/contact-us-pub72a46af0/
+      - paragraph: Shop now and get up to Rs.5 Lakh* back!
+    - img "An electric white MITTZON desk sit/stand"
+    - link "Furniture trends of 2025":
+      - /url: https://www.ikea.com/in/en/ideas/5-furniture-trends-for-2025-pubb8dfac10/
+      - paragraph: Furniture trends of 2025
+    - img "A black-brown KALLAX shelving unit"
+    - heading "Inspiration for every room" [level=2]
+    - button "See all rooms"
+    - link "Skip listing":
+      - /url: "#hri--carousel__P0-1-skip-btn"
+    - list:
+      - listitem:
+        - link "Bedroom":
+          - /url: https://www.ikea.com/in/en/rooms/bedroom/
+      - listitem:
+        - link "Living room":
+          - /url: https://www.ikea.com/in/en/rooms/living-room/
+      - listitem:
+        - link "Kitchen":
+          - /url: https://www.ikea.com/in/en/rooms/kitchen/
+      - listitem:
+        - link "Home office":
+          - /url: https://www.ikea.com/in/en/rooms/home-office/
+      - listitem:
+        - link "Dining":
+          - /url: https://www.ikea.com/in/en/rooms/dining/
+      - listitem:
+        - link "Bathroom":
+          - /url: https://www.ikea.com/in/en/rooms/bathroom/
+      - listitem:
+        - link "Childrens room":
+          - /url: https://www.ikea.com/in/en/rooms/childrens-room/
+      - listitem:
+        - link "Outdoor":
+          - /url: https://www.ikea.com/in/en/rooms/outdoor/
+    - heading "Get the look" [level=2]
+    - paragraph: Ideas based on your recently viewed products
+    - link "Skip listing":
+      - /url: "#crec--carousel__carousel-imc-P0-0-skip-btn"
+    - heading "Explore these gifts ideas for your loved ones" [level=2]
+    - link "Skip listing":
+      - /url: "#hri--carousel__P0-1-skip-btn"
+    - list:
+      - listitem:
+        - link "All gifts ideas":
+          - /url: https://www.ikea.com/in/en/ideas/gift-ideas/
+          - heading "All gifts ideas" [level=3]
+      - listitem:
+        - link "Housewarming gift ideas":
+          - /url: https://www.ikea.com/in/en/ideas/gift-ideas/ideas-for-new-home-presents-and-housewarming-gifts-pubc267ec0c/
+        - img "A mother-of-pearl colour RÄFFELBJÖRK vase"
+      - listitem:
+        - link "Wedding gifts ideas":
+          - /url: https://www.ikea.com/in/en/ideas/gift-ideas/wedding-gift-ideas-thatll-give-them-a-new-beginning-pubdd7263ac/
+        - img "A cozy, well-decorated living space featuring a yellow HEMNES daybed with cushions of assorted patterned throw pillows in earthy tones. Above the bed are two framed botanical prints, flanked by wall lamps and strings of marigold flowers."
+      - listitem:
+        - link "Gift ideas for gamers":
+          - /url: https://www.ikea.com/in/en/ideas/gift-ideas/find-chargers-accessories-and-other-gifts-for-gamers-pub35e6ebc0/
+        - img "Gaming room lit with blue light is furnished with two monitors, gaming chair, desk, cabinetry, peg boards, and a variety of gaming accessories."
+      - listitem:
+        - link "Gift ideas for children":
+          - /url: https://www.ikea.com/in/en/ideas/gift-ideas/gifting-ideas-for-children-pubbede8300/
+        - img "A MÅLA drawing paper roll"
+      - listitem:
+        - link "Gift ideas for plant lovers":
+          - /url: https://www.ikea.com/in/en/ideas/gift-ideas/explore-a-whole-forest-of-green-gifts-for-plant-lovers-pubebc3d420/
+        - img "Plant stand SATSUMAS in wooden colour placed in bright room with lots of green plants."
+      - listitem:
+        - link "Gift ideas for new parents":
+          - /url: https://www.ikea.com/in/en/ideas/gift-ideas/find-baby-gifts-for-new-parents-like-toys-blankets-and-more-pub43036160/
+      - listitem:
+        - link "Gift ideas for someone special":
+          - /url: https://www.ikea.com/in/en/ideas/gift-ideas/bring-the-romance-with-valentines-day-gifts-for-your-true-love-pubbb0d122c/
+        - img "A white SANNAHED frame in the living room"
+      - listitem:
+        - link "Gift ideas for bakers":
+          - /url: https://www.ikea.com/in/en/ideas/gift-ideas/shop-gifts-for-bakers-like-cookware-kitchen-accessories-and-more-pub4cab8b10/
+        - img "Baker uses rubber spatula to frost a cake on glass cake stand"
+    - heading "Discover what's new at IKEA" [level=2]
+    - link "Discover all the new products":
+      - /url: /in/en/new/new-products/
+    - link "Skip listing":
+      - /url: "#rec--carousel__new-ikea-homepage-skip-btn"
+    - button "See previous items"
+    - button "See next items"
+    - heading "Trending articles" [level=2]
+    - link "Skip listing":
+      - /url: "#hri--carousel__hri-editorial-shelf-carousel-skip-btn"
+    - list:
+      - listitem:
+        - link "5 Furniture Trends for 2025 from Minimalist to Modern":
+          - /url: https://www.ikea.com/in/en/ideas/5-furniture-trends-for-2025-pubb8dfac10/
+          - heading "5 Furniture Trends for 2025 from Minimalist to Modern" [level=3]
+        - paragraph: Explore the latest 5 furniture trends in 2025 from minimalist to modern home designs. Discover stylish, functional, and sustainable designs perfect for every space. Browse online or visit IKEA today!
+      - listitem:
+        - link "4 Home office styles that are taking over 2025":
+          - /url: https://www.ikea.com/in/en/ideas/4-home-office-setup-ideas-pub2a3789f0/
+          - heading "4 Home office styles that are taking over 2025" [level=3]
+        - paragraph: Discover 2025’s top home office ideas—from creative desk setups to space-saving storage. Find your perfect workspace style with IKEA India.
+      - listitem:
+        - link "Clean desks, clearer minds":
+          - /url: https://www.ikea.com/in/en/ideas/3-easy-storage-and-organisation-ideas-for-your-study-table-pub645b95d9/
+          - heading "Clean desks, clearer minds" [level=3]
+        - paragraph: 3 ways to organise your desk
+      - listitem:
+        - link "Style and comfort in a small space":
+          - /url: https://www.ikea.com/in/en/ideas/style-and-comfort-in-a-small-space-pubaf82bd20/
+          - heading "Style and comfort in a small space" [level=3]
+        - paragraph: Buying a home in the city of dreams is magical. Managing to create your own dream world in the limited space, however, can get tricky. But don’t let that stop you from thinking big and creating a place to truly call your own.
+      - listitem:
+        - link "Create kitchen storage like a pro":
+          - /url: https://www.ikea.com/in/en/ideas/the-genius-kitchen-pub3a5064d0/
+          - heading "Create kitchen storage like a pro" [level=3]
+        - paragraph: If you’re serious about cooking, this kitchen will give you lots of ideas. Get inspired by good-looking storage for everything from mixers to home-dried oregano.
+      - listitem:
+        - link "Put your bathroom wall to work (no drilling required)":
+          - /url: https://www.ikea.com/in/en/ideas/creative-no-drill-wall-storage-ideas-for-your-bathroom-pub387c9a23/
+          - heading "Put your bathroom wall to work (no drilling required)" [level=3]
+        - paragraph: Put your bathroom walls to work (no drilling required)
+      - listitem:
+        - link "Cleaning challenge":
+          - /url: https://www.ikea.com/in/en/ideas/everyday-rituals/best-in-clean-pub363e2b00/
+          - heading "Cleaning challenge" [level=3]
+        - paragraph: Gather the whole family to compete in the cleaning championship of the week. Start with a game of darts, play some music and have lots of fun! Fastest wins.
+      - listitem:
+        - link "Your kitchen starter checklist":
+          - /url: https://www.ikea.com/in/en/ideas/kitchen-starter-kit-page-pub60b4638a/
+          - heading "Your kitchen starter checklist" [level=3]
+        - paragraph: A guide to a fully functioning kitchen, put together one piece at a time
+    - heading "More from IKEA India" [level=2]
+    - link "Skip listing":
+      - /url: "#hri--carousel__P0-1-skip-btn"
+    - list:
+      - listitem:
+        - link "IKEA for business":
+          - /url: https://www.ikea.com/in/en/ikea-business/
+        - img "A Vissle dark yellow/Kabusa dark yellow BINGSTA armchair in the home office"
+      - listitem:
+        - link "IKEA app":
+          - /url: https://www.ikea.com/in/en/customer-service/mobile-apps/
+        - img "[unpopulated]"
+      - listitem:
+        - link "IKEA gift card":
+          - /url: https://www.ikea.com/in/en/customer-service/ikea-gift-cards-pub004138e1/
+        - img "[unpopulated]"
+      - listitem:
+        - link "Shop by phone":
+          - /url: https://www.ikea.com/in/en/customer-service/we-can-help-you-shop-pub633bfb80/
+        - img "[unpopulated]"
+      - listitem:
+        - link "IKEA Food":
+          - /url: https://www.ikea.com/in/en/stores/restaurant/
+        - img "[unpopulated]"
+      - listitem:
+        - link "Sustainability":
+          - /url: https://www.ikea.com/in/en/this-is-ikea/sustainable-everyday/
+        - img "A stainless steel effect GLYPEN mixer tap"
+      - listitem:
+        - link "Join IKEA family":
+          - /url: https://www.ikea.com/in/en/ikea-family/about/
+        - img "[unpopulated]"
+        - text: IKEA Family price
+      - listitem:
+        - link "Product recall":
+          - /url: https://www.ikea.com/in/en/customer-service/about-product-product-recall-pub4a713c1d/
+        - img "[unpopulated]"
+    - heading "Discover our services" [level=2]
+    - link "Skip listing":
+      - /url: "#pub__-carousel__2d694db0-b1bb-11ed-9a59-071b69c16f36-skip-btn"
+    - list:
+      - listitem:
+        - link "All services":
+          - /url: https://www.ikea.com/in/en/customer-service/
+      - listitem:
+        - link "Home Delivery":
+          - /url: https://www.ikea.com/in/en/customer-service/delivery-service-pubd5889e60/
+          - img "Home Delivery"
+      - listitem:
+        - link "Click & collect":
+          - /url: https://www.ikea.com/in/en/customer-service/services/click-and-collect-shopping-at-ikea-stores-pubada7dae3/
+          - img "Click & collect"
+      - listitem:
+        - link "Personal shopper":
+          - /url: https://www.ikea.com/in/en/customer-service/services/personal-shopper-pubdc2b0ed0/
+          - img "Personal shopper"
+      - listitem:
+        - link "Interior design service":
+          - /url: https://www.ikea.com/in/en/planners/interior-design-planning-pubd77b3be0/
+          - img "Interior design service"
+      - listitem:
+        - link "Measuring service":
+          - /url: https://www.ikea.com/in/en/customer-service/measuring-service-pub2ecf8410/
+          - img "Measuring service"
+      - listitem:
+        - link "Kitchen planning":
+          - /url: https://www.ikea.com/in/en/customer-service/need-help-planning-a-kitchen-book-an-appointment-now-pub68c33a30/
+          - img "Kitchen planning"
+      - listitem:
+        - link "Assembly":
+          - /url: https://www.ikea.com/in/en/customer-service/services/assembly/
+          - img "Assembly"
+      - listitem:
+        - link "Installation":
+          - /url: https://www.ikea.com/in/en/customer-service/installation-service-pub7f1a7a60/
+          - img "Installation"
+      - listitem:
+        - link "Design your room":
+          - /url: https://www.ikea.com/in/en/planners/design-your-dream-home-pub66945dd9/
+          - img "Design your room"
+    - heading "More ideas and inspiration" [level=2]
+    - paragraph
+    - button "Loading…" [disabled]
+    - heading "Explore our furniture & home furnishing range" [level=3]:
+      - strong: Explore our furniture & home furnishing range
+    - paragraph:
+      - strong: IKEA is a global leader in life at home.
+    - paragraph:
+      - text: Whether you just moved into a new home or looking to revamp your current one, we at
+      - link "IKEA":
+        - /url: https://www.ikea.com/in/en/this-is-ikea/?itm_campaign=ikeaindia&itm_element=text&itm_content=thisisikea
+      - text: are here to inspire you with affordable home furniture solutions, there is a piece of
+      - link "furniture":
+        - /url: https://www.ikea.com/in/en/cat/furniture-fu001/?itm_campaign=cat&itm_element=text&itm_content=furniture
+      - text: to every corner of your home. Create a home that is perfect for you.
+    - paragraph:
+      - text: Shopping at IKEA is a bit different and exciting compared to your shopping at an everyday retail. It is about experiencing solutions first hand and getting to know
+      - link "ideas":
+        - /url: https://www.ikea.com/in/en/ideas/?itm_campaign=ideas&itm_element=text&itm_content=ideas
+      - text: and inspirations that can fit perfectly into your home. That’s why, we offer more than 7500 products, solutions at our store along with home furnishing ideas and services for you to explore.
+    - paragraph:
+      - text: When you visit
+      - link "IKEA store":
+        - /url: https://www.ikea.com/in/en/stores/?itm_campaign=store&itm_element=text&itm_content=stores
+      - text: ", make yourself at home in our many room settings in the store. Squeeze the upholsteries, feel the oriental rugs, try the"
+      - link "sofa beds":
+        - /url: https://www.ikea.com/in/en/cat/sofa-beds-10663/?itm_campaign=cat&itm_element=text&itm_content=sofabeds
+      - text: and open the
+      - link "cabinets":
+        - /url: https://www.ikea.com/in/en/cat/cabinets-10409/?itm_campaign=cat&itm_element=text&itm_content=cabinets
+      - text: to feel the quality. On the price tag, you’ll find all you need to know about a product, including where in the store you can pick it up.
+    - paragraph: Since most IKEA furniture is flat-packed, they are quite easy to bring home when you buy from the store.
+    - paragraph:
+      - strong:
+        - link "Sofas":
+          - /url: https://www.ikea.com/in/en/cat/sofas-fu003/?itm_campaign=cat&itm_element=link&itm_content=sofasarmchairs
+        - text: "|"
+        - link "Beds":
+          - /url: https://www.ikea.com/in/en/cat/beds-bm003/?itm_campaign=cat&itm_element=link&itm_content=beds
+        - text: "|"
+        - link "Dining":
+          - /url: https://www.ikea.com/in/en/cat/dining-tables-21825/?itm_campaign=cat&itm_element=link&itm_content=diningtables
+        - text: "|"
+        - link "Tv units":
+          - /url: https://www.ikea.com/in/en/cat/tv-media-furniture-10475/?itm_campaign=cat&itm_element=link&itm_content=tvunits
+        - text: "|"
+        - link "Mattresses":
+          - /url: https://www.ikea.com/in/en/cat/mattresses-bm002/?itm_campaign=cat&itm_element=link&itm_content=mattresses
+        - text: "|"
+        - link "Seating":
+          - /url: https://www.ikea.com/in/en/cat/tables-chairs-fu002/?itm_campaign=cat&itm_element=link&itm_content=seating
+        - text: "|"
+        - link "Coffee tables":
+          - /url: https://www.ikea.com/in/en/cat/coffee-tables-10716/?itm_campaign=cat&itm_element=link&itm_content=coffeetable
+        - text: "|"
+        - link "Wardrobes":
+          - /url: https://www.ikea.com/in/en/cat/wardrobes-19053/?itm_campaign=cat&itm_element=link&itm_content=wardrobes
+        - text: "|"
+        - link "Storage":
+          - /url: https://www.ikea.com/in/en/cat/storage-organisation-st001/?itm_campaign=cat&itm_element=link&itm_content=storageorganisation
+        - text: "|"
+        - link "Bookshelves":
+          - /url: https://www.ikea.com/in/en/cat/bookcases-shelving-units-st002/?itm_campaign=cat&itm_element=link&itm_content=bookcases
+        - text: "| Shoe racks |"
+        - link "Decor":
+          - /url: https://www.ikea.com/in/en/cat/home-decor-de001/?itm_campaign=cat&itm_element=link&itm_content=decoration
+        - text: "|"
+        - link "Bathroom":
+          - /url: https://www.ikea.com/in/en/cat/bathroom-products-ba001/?itm_campaign=cat&itm_element=link&itm_content=bathroom
+        - text: "|"
+        - link "Textiles":
+          - /url: https://www.ikea.com/in/en/cat/textiles-tl001/?itm_campaign=cat&itm_element=link&itm_content=textiles
+        - text: "|"
+        - link "Pots & plants":
+          - /url: https://www.ikea.com/in/en/cat/pots-plants-pp001/?itm_campaign=cat&itm_element=link&itm_content=potsandplants
+        - text: "|"
+        - link "Home electronics":
+          - /url: https://www.ikea.com/in/en/cat/home-electronics-he001/?itm_campaign=cat&itm_element=link&itm_content=homeelectronics
+        - text: "|"
+        - link "Home improvement":
+          - /url: https://www.ikea.com/in/en/cat/home-improvement-hi001/?itm_campaign=cat&itm_element=link&itm_content=homeimprovement
+        - text: "|"
+        - link "Lighting":
+          - /url: https://www.ikea.com/in/en/cat/lighting-li001/?itm_campaign=cat&itm_element=link&itm_content=lighting
+- contentinfo
+- region "Cookie consent banner":
+  - dialog "You are in control of your own cookies":
+    - heading "You are in control of your own cookies" [level=2]
+    - paragraph: "IKEA India and our digital partners use cookies on this site. Some are strictly necessary to run the site but below are the optional ones:"
+    - list:
+      - listitem: Used for measuring how the site is used
+      - listitem: Enabling personalisation of the site
+      - listitem: For advertising marketing and social media
+    - link ", opens in a new tab":
+      - /url: https://www.ikea.com/in/en/customer-service/cookie-policy-pubffc638db
+      - text: Read more about these cookies
+    - button "Ok"
+    - button "Cookies Settings, Opens the preference center dialog": Cookies Settings
+```

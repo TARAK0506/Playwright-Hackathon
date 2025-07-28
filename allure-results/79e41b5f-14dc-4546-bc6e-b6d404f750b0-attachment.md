@@ -1,0 +1,60 @@
+# Page snapshot
+
+```yaml
+- banner:
+  - list
+  - link "IKEAIN":
+    - /url: https://www.ikea.com/in/en/
+    - img "IKEAIN"
+  - link " Shopping cart 1":
+    - /url: javascript:void(0)
+  - navigation:
+    - list:
+      - listitem:
+        - link "1 Digital Gift card":
+          - /url: javascript:void(0)
+      - listitem:
+        - link "2 Payment":
+          - /url: javascript:void(0)
+      - listitem:
+        - link "3 Confirmation":
+          - /url: javascript:void(0)
+- text: "Review your purchase and fill in your details CART Quantity:"
+- paragraph: "1"
+- text: "Total :"
+- paragraph: Rs 5,000.00
+- img
+- text: "Rs 5,000 Sent to: Sai Gangu Hand delivery"
+- link "":
+  - /url: javascript:void(0)
+- paragraph
+- heading "You may enter a value between Rs. 500. and Rs. 10,000." [level=2]
+- heading "Your details" [level=2]
+- textbox "First Name*": Tarak
+- textbox "Last Name*": Ramarao
+- textbox "Email*": tarakaramarao0506@gmail.com
+- textbox "Confirm email*": tarakaramarao0506@gmail.com
+- text: I Agree to the
+- link "Gift cards terms & conditions":
+  - /url: /legalNotice
+- text: and
+- link "the Terms of Use":
+  - /url: /CGU
+- text: of the gift card IKEA*
+- link "Purchase an additional card":
+  - /url: javascript:void(0)
+- text: Fields marked with an asterisk (*) are required
+- button "Continue"
+- contentinfo:
+  - link "Learn more":
+    - /url: javascript:void(0)
+  - text: "|"
+  - link "General sales conditions":
+    - /url: javascript:void(0)
+  - text: "| Terms and Conditions |"
+  - link "IKEA Privacy Policy":
+    - /url: javascript:void(0)
+  - text: "|"
+  - link "Contact":
+    - /url: https://www.ikea.com/in/en/customer-service/contact-us/
+```

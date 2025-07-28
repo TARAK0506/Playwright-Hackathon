@@ -1,0 +1,9 @@
+
+Scraping data from Page no : 1...
+Data saved to C:\Users\2414380\OneDrive - Cognizant\Documents\Final Hackathon\IKEA Automation\data\results.json
+
+Scraping data from Page no : 2...
+Data saved to C:\Users\2414380\OneDrive - Cognizant\Documents\Final Hackathon\IKEA Automation\data\results.json
+Max number of pages reached: 2
+Successfully scraped data from all the pages.
+File saved to C:\Users\2414380\OneDrive - Cognizant\Documents\Final Hackathon\IKEA Automation\output\ikea_bookshelvespage.csv

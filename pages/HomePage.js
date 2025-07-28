@@ -2,9 +2,11 @@ const { expect } = require("@playwright/test");
 const fs = require("fs");
 const path = require("path");
 const convertToCSV = require('../utils/csvWriter');
+const BasePage = require("./BasePage");
 
-class Homepage {
+class Homepage extends BasePage{
   constructor(page) {
+    super(page);
     this.page = page;
     this.url = "https://www.ikea.com/in/en/";
     this.searchBar = page.locator("#ikea-search-input");
@@ -43,6 +45,12 @@ class Homepage {
   async findShelves() {
     await this.searchBar.click();
     await this.searchBar.fill("BookShelves");
+    await this.page.keyboard.press("Enter");
+  }
+
+  async performSearch(inputText) {
+    await this.searchBar.click();
+    await this.searchBar.fill(inputText);
     await this.page.keyboard.press("Enter");
   }
 

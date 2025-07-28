@@ -19,7 +19,7 @@ class GiftcardPage {
       this.yourEmail = page.locator("#email");
       this.yourConfirmEmail = page.locator("#confEmail");
       this.terms = page.locator('//*[@id="formCreateOrder"]/div/div/div/div/div[1]/div[5]/div/div/div/label');
-      this.continueButton = page.locator("#submitOrder");
+      this.continueButton = page.locator('//input[@id = "submitOrder"]');
     }
   
     async navigateToGiftCardPage() {
@@ -58,7 +58,9 @@ class GiftcardPage {
       await this.yourEmail.fill(email);
       await this.yourConfirmEmail.fill(confirmEmail);
       await this.terms.click();
-      await this.continueButton.click();
+      await this.page.waitForSelector('#submitOrder', { state: 'attached' });
+      await this.page.locator('#submitOrder').click();
+      // await this.continueButton.click();
     }
   }
   

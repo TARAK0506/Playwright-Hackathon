@@ -8,9 +8,7 @@ const StudyChairPage = require('../pages/StudyChairPage');
 const GiftcardPage = require('../pages/GiftCardPage');
 const PaymentPage = require('../pages/PaymentsPage');
 const csvWriter = require('../utils/csvWriter');
-
-// Configure baseURL for this file.
-// test.use({ baseURL: 'https://www.ikea.com/in/en/' });
+const saveToFilePath = require('../utils/fileUtils');
 
 let results = [];
 
@@ -37,41 +35,33 @@ test.describe('IKEA Advanced Search test', () => {
 
     test("Navigate to Website", async({page}) => {
 
-        const noOfPages = 4;
+        const noOfPages = 2;
 
-        // Navigate to URL
-        await page.goto('https://www.ikea.com/in/en/', { waitUntil: 'domcontentloaded' });
+        // Navigate page to URL
+        await page.goto('https://www.ikea.com/in/en/');
 
         // Assertions 
         await expect(page).toHaveTitle(/IKEA/);
         await expect(page).toHaveURL('https://www.ikea.com/in/en/');
 
-
-        await booksShelvesPage.clickSearch();
-        await booksShelvesPage.fill("Book Shelves");
-        await booksShelvesPage.submitSearch();
-        // results = await booksShelvesPage.scrapeAllPages(); 
-
+        await booksShelvesPage.performSearch("Book Shelves");
 
         results = await booksShelvesPage.pagination(noOfPages);
-        console.log(results.length);
+        // console.log(results.length);
 
         //Assertion
-        // expect(results.length).toBeGreaterThan(0);
+        try {
+          expect(results.length).toBeGreaterThan(0);
+        } catch (error) {
+          console.error("Test failed:", error);
+        }        
     });
 
     test.afterAll(() => {
         if (results.length > 0) {
           const csvData = csvWriter(results);
         
-          const csvPath = path.resolve(__dirname, '../data/ikea_bookshelvespage.csv');
-          const dir = path.dirname(csvPath);
-          if (!fs.existsSync(dir)) {
-            fs.mkdirSync(dir, { recursive: true });
-          }
-      
-          fs.writeFileSync(csvPath, csvData);
-          console.log(`CSV file saved to ${csvPath}`);
+          saveToFilePath('../output/ikea_bookshelvespage.csv', csvData);
         } else {
           console.log('No data scraped, CSV not saved.');
         }

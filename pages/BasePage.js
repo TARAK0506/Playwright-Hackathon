@@ -10,6 +10,18 @@ class BasePage{
         this.showMore = this.page.locator('//span[@class = "plp-btn__label" and contains(text(), "Show more")]');
     }
 
+    async clickSearch() {
+        await this.searchLocator.click();
+    }
+
+    async fill(inputText) {
+        await this.searchLocator.fill(inputText);
+    }
+
+    async submitSearch() {
+        await this.page.keyboard.press('Enter');
+    }
+    
 };
 
 module.exports = BasePage;

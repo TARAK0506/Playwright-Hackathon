@@ -1,0 +1,6 @@
+
+Scraping Page 1...
+No results found.
+Successfully scraped all pages.
+0
+No data scraped, CSV not saved.

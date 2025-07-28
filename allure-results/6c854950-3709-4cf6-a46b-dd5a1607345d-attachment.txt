@@ -1,0 +1,224 @@
+
+Scraping Page 1...
+Title: BILLY | Link: https://www.ikea.com/in/en/p/billy-bookcase-white-90522038/ | Price: 1,990
+Title: BILLY | Link: https://www.ikea.com/in/en/p/billy-bookcase-white-30522041/ | Price: 4,990
+Title: BILLY / OXBERG | Link: https://www.ikea.com/in/en/p/billy-oxberg-bookcase-with-panel-glass-doors-black-oak-effect-s59483633/ | Price: 15,990
+Title: BAGGEBO | Link: https://www.ikea.com/in/en/p/baggebo-shelving-unit-metal-white-60483873/ | Price: 13,990
+Title: BILLY / OXBERG | Link: https://www.ikea.com/in/en/p/billy-oxberg-bookcase-with-glass-doors-black-oak-effect-s59483628/ | Price: 1,790
+Title: BILLY | Link: https://www.ikea.com/in/en/p/billy-bookcase-black-oak-effect-20477341/ | Price: 17,990
+Title: BILLY / OXBERG | Link: https://www.ikea.com/in/en/p/billy-oxberg-bookcase-with-door-white-s09528342/ | Price: 15,990
+Title: BAGGEBO | Link: https://www.ikea.com/in/en/p/baggebo-cabinet-with-door-white-70483882/ | Price: 8,990
+Title: BILLY / OXBERG | Link: https://www.ikea.com/in/en/p/billy-oxberg-bookcase-with-panel-glass-door-white-glass-s79528348/ | Price: 6,990
+Title: KALLAX | Link: https://www.ikea.com/in/en/p/kallax-shelving-unit-white-60351882/ | Price: 3,690
+Title: BILLY / OXBERG | Link: https://www.ikea.com/in/en/p/billy-oxberg-bookcase-combination-w-glass-doors-black-oak-effect-s29483743/ | Price: 2,290
+Title: BILLY / OXBERG | Link: https://www.ikea.com/in/en/p/billy-oxberg-bookcase-with-glass-door-white-glass-s59545358/ | Price: 7,990
+Title: BURHULT / SIBBHULT | Link: https://www.ikea.com/in/en/p/burhult-sibbhult-wall-shelf-combination-white-white-s69326100/ | Price: 14,990
+Title: VARBY | Link: https://www.ikea.com/in/en/p/varby-corner-shelf-unit-medium-brown-00417579/ | Price: 35,980
+Title: LERBERG | Link: https://www.ikea.com/in/en/p/lerberg-shelf-unit-dark-grey-60186401/ | Price: 31,980
+Title: BILLY | Link: https://www.ikea.com/in/en/p/billy-bookcase-combination-crnr-solution-white-s99545342/ | Price: 8,990
+Title: BRIMNES | Link: https://www.ikea.com/in/en/p/brimnes-bookcase-white-10351686/ | Price: 598
+Title: HEMNES | Link: https://www.ikea.com/in/en/p/hemnes-glass-door-cabinet-with-3-drawers-grey-green-light-brown-stained-80596162/ | Price: 5,490
+Title: BILLY / OXBERG | Link: https://www.ikea.com/in/en/p/billy-oxberg-bookcase-with-doors-white-s49528340/ | Price: 2,490
+Title: BILLY | Link: https://www.ikea.com/in/en/p/billy-bookcase-comb-w-foldable-table-white-s69590661/ | Price: 15,370
+Title: BILLY / HÖGBO | Link: https://www.ikea.com/in/en/p/billy-hoegbo-bookcase-comb-w-foldable-table-white-s79590745/ | Price: 10,990
+Title: HYLLIS | Link: https://www.ikea.com/in/en/p/hyllis-shelving-unit-in-outdoor-80278579/ | Price: 35,990
+Data saved to C:\Users\2414380\OneDrive - Cognizant\Documents\Final Hackathon\IKEA Automation\data\results.json
+
+Scraping Page 2...
+Title: BILLY | Link: https://www.ikea.com/in/en/p/billy-bookcase-white-90522038/ | Price: 1,990
+Title: BILLY | Link: https://www.ikea.com/in/en/p/billy-bookcase-white-30522041/ | Price: 4,990
+Title: BILLY / OXBERG | Link: https://www.ikea.com/in/en/p/billy-oxberg-bookcase-with-panel-glass-doors-black-oak-effect-s59483633/ | Price: 15,990
+Title: BAGGEBO | Link: https://www.ikea.com/in/en/p/baggebo-shelving-unit-metal-white-60483873/ | Price: 13,990
+Title: BILLY / OXBERG | Link: https://www.ikea.com/in/en/p/billy-oxberg-bookcase-with-glass-doors-black-oak-effect-s59483628/ | Price: 1,790
+Title: BILLY | Link: https://www.ikea.com/in/en/p/billy-bookcase-black-oak-effect-20477341/ | Price: 17,990
+Title: BILLY / OXBERG | Link: https://www.ikea.com/in/en/p/billy-oxberg-bookcase-with-door-white-s09528342/ | Price: 15,990
+Title: BAGGEBO | Link: https://www.ikea.com/in/en/p/baggebo-cabinet-with-door-white-70483882/ | Price: 8,990
+Title: BILLY / OXBERG | Link: https://www.ikea.com/in/en/p/billy-oxberg-bookcase-with-panel-glass-door-white-glass-s79528348/ | Price: 6,990
+Title: KALLAX | Link: https://www.ikea.com/in/en/p/kallax-shelving-unit-white-60351882/ | Price: 3,690
+Title: BILLY / OXBERG | Link: https://www.ikea.com/in/en/p/billy-oxberg-bookcase-combination-w-glass-doors-black-oak-effect-s29483743/ | Price: 2,290
+Title: BILLY / OXBERG | Link: https://www.ikea.com/in/en/p/billy-oxberg-bookcase-with-glass-door-white-glass-s59545358/ | Price: 7,990
+Title: BURHULT / SIBBHULT | Link: https://www.ikea.com/in/en/p/burhult-sibbhult-wall-shelf-combination-white-white-s69326100/ | Price: 14,990
+Title: VARBY | Link: https://www.ikea.com/in/en/p/varby-corner-shelf-unit-medium-brown-00417579/ | Price: 35,980
+Title: LERBERG | Link: https://www.ikea.com/in/en/p/lerberg-shelf-unit-dark-grey-60186401/ | Price: 31,980
+Title: BILLY | Link: https://www.ikea.com/in/en/p/billy-bookcase-combination-crnr-solution-white-s99545342/ | Price: 8,990
+Title: BRIMNES | Link: https://www.ikea.com/in/en/p/brimnes-bookcase-white-10351686/ | Price: 598
+Title: HEMNES | Link: https://www.ikea.com/in/en/p/hemnes-glass-door-cabinet-with-3-drawers-grey-green-light-brown-stained-80596162/ | Price: 5,490
+Title: BILLY / OXBERG | Link: https://www.ikea.com/in/en/p/billy-oxberg-bookcase-with-doors-white-s49528340/ | Price: 2,490
+Title: BILLY | Link: https://www.ikea.com/in/en/p/billy-bookcase-comb-w-foldable-table-white-s69590661/ | Price: 15,370
+Title: BILLY / HÖGBO | Link: https://www.ikea.com/in/en/p/billy-hoegbo-bookcase-comb-w-foldable-table-white-s79590745/ | Price: 10,990
+Title: HYLLIS | Link: https://www.ikea.com/in/en/p/hyllis-shelving-unit-in-outdoor-80278579/ | Price: 35,990
+Title: BILLY / EKET | Link: https://www.ikea.com/in/en/p/billy-eket-bookcase-comb-w-foldable-table-white-s79590665/ | Price: 8,390
+Title: KALLAX / LINNMON | Link: https://www.ikea.com/in/en/p/kallax-linnmon-desk-combination-white-s09483447/ | Price: 21,980
+Title: BILLY | Link: https://www.ikea.com/in/en/p/billy-bookcase-white-70522044/ | Price: 30,980
+Title: OXBERG | Link: https://www.ikea.com/in/en/p/oxberg-panel-glass-door-white-30275559/ | Price: 1,990
+Title: KALLAX | Link: https://www.ikea.com/in/en/p/kallax-insert-with-4-shelves-white-40423724/ | Price: 23,290
+Title: BILLY | Link: https://www.ikea.com/in/en/p/billy-bookcase-with-foldable-table-white-80579761/ | Price: 12,580
+Title: SKRUVBY | Link: https://www.ikea.com/in/en/p/skruvby-bookcase-black-blue-90520355/ | Price: 4,990
+Title: BILLY / OXBERG | Link: https://www.ikea.com/in/en/p/billy-oxberg-bookcase-with-glass-doors-white-s39545359/ | Price: 3,000
+Title: HEMNES | Link: https://www.ikea.com/in/en/p/hemnes-storage-combination-w-doors-drawers-grey-green-light-brown-stained-s19591069/ | Price: 3,000
+Title: HEMNES | Link: https://www.ikea.com/in/en/p/hemnes-bookcase-grey-green-light-brown-stained-20596160/ | Price: 16,990
+Title: BILLY / OXBERG | Link: https://www.ikea.com/in/en/p/billy-oxberg-bookcase-with-panel-glass-doors-white-glass-s39545364/ | Price: 6,990
+Title: BILLY / HÖGBO | Link: https://www.ikea.com/in/en/p/billy-hoegbo-bookcase-combination-w-glass-doors-white-s49545354/ | Price: 24,980
+Title: BILLY | Link: https://www.ikea.com/in/en/p/billy-bookcase-combination-brown-walnut-effect-s09525720/ | Price: 94,970
+Title: BILLY / OXBERG | Link: https://www.ikea.com/in/en/p/billy-oxberg-bookcase-combination-w-glass-doors-black-oak-effect-s99483768/ | Price: 22,990
+Title: BURHULT | Link: https://www.ikea.com/in/en/p/burhult-shelf-white-70430520/ | Price: 21,980
+Title: KALLAX | Link: https://www.ikea.com/in/en/p/kallax-shelving-unit-with-underframe-dark-green-black-s89569692/ | Price: 8,990
+Title: JONAXEL | Link: https://www.ikea.com/in/en/p/jonaxel-shelving-unit-white-70431317/ | Price: 17,980
+Title: KALLAX | Link: https://www.ikea.com/in/en/p/kallax-shelving-unit-white-20351884/ | Price: 29,970
+Title: OXBERG | Link: https://www.ikea.com/in/en/p/oxberg-door-white-60275685/ | Price: 27,970
+Title: VITTSJÖ | Link: https://www.ikea.com/in/en/p/vittsjoe-shelving-unit-yellow-glass-50595545/ | Price: 199
+Title: BILLY / OXBERG | Link: https://www.ikea.com/in/en/p/billy-oxberg-bookcase-with-doors-black-oak-effect-s49483638/ | Price: 10,390
+Title: BURHULT / SIBBHULT | Link: https://www.ikea.com/in/en/p/burhult-sibbhult-wall-shelf-white-white-s69325964/ | Price: 3,990
+Title: HAUGA | Link: https://www.ikea.com/in/en/p/hauga-high-cabinet-with-2-doors-white-30415060/ | Price: 8,990
+Title: JONAXEL | Link: https://www.ikea.com/in/en/p/jonaxel-storage-combination-white-s39297142/ | Price: 1,700
+Data saved to C:\Users\2414380\OneDrive - Cognizant\Documents\Final Hackathon\IKEA Automation\data\results.json
+
+Scraping Page 3...
+Title: BILLY | Link: https://www.ikea.com/in/en/p/billy-bookcase-white-90522038/ | Price: 1,990
+Title: BILLY | Link: https://www.ikea.com/in/en/p/billy-bookcase-white-30522041/ | Price: 4,990
+Title: BILLY / OXBERG | Link: https://www.ikea.com/in/en/p/billy-oxberg-bookcase-with-panel-glass-doors-black-oak-effect-s59483633/ | Price: 15,990
+Title: BAGGEBO | Link: https://www.ikea.com/in/en/p/baggebo-shelving-unit-metal-white-60483873/ | Price: 13,990
+Title: BILLY / OXBERG | Link: https://www.ikea.com/in/en/p/billy-oxberg-bookcase-with-glass-doors-black-oak-effect-s59483628/ | Price: 1,790
+Title: BILLY | Link: https://www.ikea.com/in/en/p/billy-bookcase-black-oak-effect-20477341/ | Price: 17,990
+Title: BILLY / OXBERG | Link: https://www.ikea.com/in/en/p/billy-oxberg-bookcase-with-door-white-s09528342/ | Price: 15,990
+Title: BAGGEBO | Link: https://www.ikea.com/in/en/p/baggebo-cabinet-with-door-white-70483882/ | Price: 8,990
+Title: BILLY / OXBERG | Link: https://www.ikea.com/in/en/p/billy-oxberg-bookcase-with-panel-glass-door-white-glass-s79528348/ | Price: 6,990
+Title: KALLAX | Link: https://www.ikea.com/in/en/p/kallax-shelving-unit-white-60351882/ | Price: 3,690
+Title: BILLY / OXBERG | Link: https://www.ikea.com/in/en/p/billy-oxberg-bookcase-combination-w-glass-doors-black-oak-effect-s29483743/ | Price: 2,290
+Title: BILLY / OXBERG | Link: https://www.ikea.com/in/en/p/billy-oxberg-bookcase-with-glass-door-white-glass-s59545358/ | Price: 7,990
+Title: BURHULT / SIBBHULT | Link: https://www.ikea.com/in/en/p/burhult-sibbhult-wall-shelf-combination-white-white-s69326100/ | Price: 14,990
+Title: VARBY | Link: https://www.ikea.com/in/en/p/varby-corner-shelf-unit-medium-brown-00417579/ | Price: 35,980
+Title: LERBERG | Link: https://www.ikea.com/in/en/p/lerberg-shelf-unit-dark-grey-60186401/ | Price: 31,980
+Title: BILLY | Link: https://www.ikea.com/in/en/p/billy-bookcase-combination-crnr-solution-white-s99545342/ | Price: 8,990
+Title: BRIMNES | Link: https://www.ikea.com/in/en/p/brimnes-bookcase-white-10351686/ | Price: 598
+Title: HEMNES | Link: https://www.ikea.com/in/en/p/hemnes-glass-door-cabinet-with-3-drawers-grey-green-light-brown-stained-80596162/ | Price: 5,490
+Title: BILLY / OXBERG | Link: https://www.ikea.com/in/en/p/billy-oxberg-bookcase-with-doors-white-s49528340/ | Price: 2,490
+Title: BILLY | Link: https://www.ikea.com/in/en/p/billy-bookcase-comb-w-foldable-table-white-s69590661/ | Price: 15,370
+Title: BILLY / HÖGBO | Link: https://www.ikea.com/in/en/p/billy-hoegbo-bookcase-comb-w-foldable-table-white-s79590745/ | Price: 10,990
+Title: HYLLIS | Link: https://www.ikea.com/in/en/p/hyllis-shelving-unit-in-outdoor-80278579/ | Price: 35,990
+Title: BILLY / EKET | Link: https://www.ikea.com/in/en/p/billy-eket-bookcase-comb-w-foldable-table-white-s79590665/ | Price: 8,390
+Title: KALLAX / LINNMON | Link: https://www.ikea.com/in/en/p/kallax-linnmon-desk-combination-white-s09483447/ | Price: 21,980
+Title: BILLY | Link: https://www.ikea.com/in/en/p/billy-bookcase-white-70522044/ | Price: 30,980
+Title: OXBERG | Link: https://www.ikea.com/in/en/p/oxberg-panel-glass-door-white-30275559/ | Price: 1,990
+Title: KALLAX | Link: https://www.ikea.com/in/en/p/kallax-insert-with-4-shelves-white-40423724/ | Price: 23,290
+Title: BILLY | Link: https://www.ikea.com/in/en/p/billy-bookcase-with-foldable-table-white-80579761/ | Price: 12,580
+Title: SKRUVBY | Link: https://www.ikea.com/in/en/p/skruvby-bookcase-black-blue-90520355/ | Price: 4,990
+Title: BILLY / OXBERG | Link: https://www.ikea.com/in/en/p/billy-oxberg-bookcase-with-glass-doors-white-s39545359/ | Price: 3,000
+Title: HEMNES | Link: https://www.ikea.com/in/en/p/hemnes-storage-combination-w-doors-drawers-grey-green-light-brown-stained-s19591069/ | Price: 3,000
+Title: HEMNES | Link: https://www.ikea.com/in/en/p/hemnes-bookcase-grey-green-light-brown-stained-20596160/ | Price: 16,990
+Title: BILLY / OXBERG | Link: https://www.ikea.com/in/en/p/billy-oxberg-bookcase-with-panel-glass-doors-white-glass-s39545364/ | Price: 6,990
+Title: BILLY / HÖGBO | Link: https://www.ikea.com/in/en/p/billy-hoegbo-bookcase-combination-w-glass-doors-white-s49545354/ | Price: 24,980
+Title: BILLY | Link: https://www.ikea.com/in/en/p/billy-bookcase-combination-brown-walnut-effect-s09525720/ | Price: 94,970
+Title: BILLY / OXBERG | Link: https://www.ikea.com/in/en/p/billy-oxberg-bookcase-combination-w-glass-doors-black-oak-effect-s99483768/ | Price: 22,990
+Title: BURHULT | Link: https://www.ikea.com/in/en/p/burhult-shelf-white-70430520/ | Price: 21,980
+Title: KALLAX | Link: https://www.ikea.com/in/en/p/kallax-shelving-unit-with-underframe-dark-green-black-s89569692/ | Price: 8,990
+Title: JONAXEL | Link: https://www.ikea.com/in/en/p/jonaxel-shelving-unit-white-70431317/ | Price: 17,980
+Title: KALLAX | Link: https://www.ikea.com/in/en/p/kallax-shelving-unit-white-20351884/ | Price: 29,970
+Title: OXBERG | Link: https://www.ikea.com/in/en/p/oxberg-door-white-60275685/ | Price: 27,970
+Title: VITTSJÖ | Link: https://www.ikea.com/in/en/p/vittsjoe-shelving-unit-yellow-glass-50595545/ | Price: 199
+Title: BILLY / OXBERG | Link: https://www.ikea.com/in/en/p/billy-oxberg-bookcase-with-doors-black-oak-effect-s49483638/ | Price: 10,390
+Title: BURHULT / SIBBHULT | Link: https://www.ikea.com/in/en/p/burhult-sibbhult-wall-shelf-white-white-s69325964/ | Price: 3,990
+Title: HAUGA | Link: https://www.ikea.com/in/en/p/hauga-high-cabinet-with-2-doors-white-30415060/ | Price: 8,990
+Title: JONAXEL | Link: https://www.ikea.com/in/en/p/jonaxel-storage-combination-white-s39297142/ | Price: 1,700
+Title: OXBERG | Link: https://www.ikea.com/in/en/p/oxberg-glass-door-white-70275618/ | Price: 3,990
+Title: BILLY | Link: https://www.ikea.com/in/en/p/billy-bookcase-white-s09545327/ | Price: 13,390
+Title: EKENABBEN | Link: https://www.ikea.com/in/en/p/ekenabben-open-shelving-unit-aspen-white-60487814/ | Price: 11,390
+Title: BILLY / HÖGBO | Link: https://www.ikea.com/in/en/p/billy-hoegbo-bookcase-with-glass-doors-white-s89528343/ | Price: 299
+Title: SKRUVBY | Link: https://www.ikea.com/in/en/p/skruvby-storage-combination-black-blue-s69494725/ | Price: 15,990
+Title: BILLY / HÖGBO | Link: https://www.ikea.com/in/en/p/billy-hoegbo-bookcase-combination-w-glass-doors-white-s29528341/ | Price: 2,800
+Title: KRÖNIKÖR | Link: https://www.ikea.com/in/en/p/kroenikoer-open-storage-red-90574598/ | Price: 4,000
+Title: SKRUVBY | Link: https://www.ikea.com/in/en/p/skruvby-storage-combination-black-blue-s19525606/ | Price: 14,970
+Title: KALLAX | Link: https://www.ikea.com/in/en/p/kallax-insert-with-door-white-60351877/ | Price: 6,990
+Title: BILLY | Link: https://www.ikea.com/in/en/p/billy-bookcase-with-glass-doors-green-80594926/ | Price: 15,990
+Title: BERGSHULT / PERSHULT | Link: https://www.ikea.com/in/en/p/bergshult-pershult-wall-shelf-white-white-s89290732/ | Price: 16,980
+Title: BESTÅ | Link: https://www.ikea.com/in/en/p/besta-cabinet-unit-white-s19284999/ | Price: 4,990
+Title: MOSSLANDA | Link: https://www.ikea.com/in/en/p/mosslanda-picture-ledge-white-30297467/ | Price: 2,490
+Title: HÖGBO | Link: https://www.ikea.com/in/en/p/hoegbo-glass-door-white-70517245/ | Price: 22,980
+Title: BILLY | Link: https://www.ikea.com/in/en/p/billy-bookcase-with-drawer-white-s59545297/ | Price: 1,000
+Title: BILLY | Link: https://www.ikea.com/in/en/p/billy-bookcase-with-drawer-white-s39545298/ | Price: 16,990
+Title: BILLY | Link: https://www.ikea.com/in/en/p/billy-bookcase-green-s29580094/ | Price: 1,490
+Title: KALLAX | Link: https://www.ikea.com/in/en/p/kallax-shelving-unit-with-4-drawers-with-2-shelf-inserts-white-s29575988/ | Price: 10,700
+Title: HEMNES | Link: https://www.ikea.com/in/en/p/hemnes-storage-combination-w-doors-drawers-grey-green-light-brown-stained-s99602342/ | Price: 499
+Title: EKET | Link: https://www.ikea.com/in/en/p/eket-wall-mounted-cabinet-combination-white-s99189031/ | Price: 4,000
+Title: KOLBJÖRN | Link: https://www.ikea.com/in/en/p/kolbjoern-cabinet-in-outdoor-beige-00345634/ | Price: 7,490
+Title: BILLY / OXBERG | Link: https://www.ikea.com/in/en/p/billy-oxberg-bookcase-with-panel-glass-doors-white-glass-s69545353/ | Price: 10,490
+Title: BILLY / OXBERG | Link: https://www.ikea.com/in/en/p/billy-oxberg-bookcase-combination-with-doors-white-s19528365/ | Price: 33,980
+Title: BILLY / OXBERG | Link: https://www.ikea.com/in/en/p/billy-oxberg-bookcase-white-s59545396/ | Price: 13,790
+Data saved to C:\Users\2414380\OneDrive - Cognizant\Documents\Final Hackathon\IKEA Automation\data\results.json
+
+Scraping Page 4...
+Title: BILLY | Link: https://www.ikea.com/in/en/p/billy-bookcase-white-90522038/ | Price: 1,990
+Title: BILLY | Link: https://www.ikea.com/in/en/p/billy-bookcase-white-30522041/ | Price: 4,990
+Title: BILLY / OXBERG | Link: https://www.ikea.com/in/en/p/billy-oxberg-bookcase-with-panel-glass-doors-black-oak-effect-s59483633/ | Price: 15,990
+Title: BAGGEBO | Link: https://www.ikea.com/in/en/p/baggebo-shelving-unit-metal-white-60483873/ | Price: 13,990
+Title: BILLY / OXBERG | Link: https://www.ikea.com/in/en/p/billy-oxberg-bookcase-with-glass-doors-black-oak-effect-s59483628/ | Price: 1,790
+Title: BILLY | Link: https://www.ikea.com/in/en/p/billy-bookcase-black-oak-effect-20477341/ | Price: 17,990
+Title: BILLY / OXBERG | Link: https://www.ikea.com/in/en/p/billy-oxberg-bookcase-with-door-white-s09528342/ | Price: 15,990
+Title: BAGGEBO | Link: https://www.ikea.com/in/en/p/baggebo-cabinet-with-door-white-70483882/ | Price: 8,990
+Title: BILLY / OXBERG | Link: https://www.ikea.com/in/en/p/billy-oxberg-bookcase-with-panel-glass-door-white-glass-s79528348/ | Price: 6,990
+Title: KALLAX | Link: https://www.ikea.com/in/en/p/kallax-shelving-unit-white-60351882/ | Price: 3,690
+Title: BILLY / OXBERG | Link: https://www.ikea.com/in/en/p/billy-oxberg-bookcase-combination-w-glass-doors-black-oak-effect-s29483743/ | Price: 2,290
+Title: BILLY / OXBERG | Link: https://www.ikea.com/in/en/p/billy-oxberg-bookcase-with-glass-door-white-glass-s59545358/ | Price: 7,990
+Title: BURHULT / SIBBHULT | Link: https://www.ikea.com/in/en/p/burhult-sibbhult-wall-shelf-combination-white-white-s69326100/ | Price: 14,990
+Title: VARBY | Link: https://www.ikea.com/in/en/p/varby-corner-shelf-unit-medium-brown-00417579/ | Price: 35,980
+Title: LERBERG | Link: https://www.ikea.com/in/en/p/lerberg-shelf-unit-dark-grey-60186401/ | Price: 31,980
+Title: BILLY | Link: https://www.ikea.com/in/en/p/billy-bookcase-combination-crnr-solution-white-s99545342/ | Price: 8,990
+Title: BRIMNES | Link: https://www.ikea.com/in/en/p/brimnes-bookcase-white-10351686/ | Price: 598
+Title: HEMNES | Link: https://www.ikea.com/in/en/p/hemnes-glass-door-cabinet-with-3-drawers-grey-green-light-brown-stained-80596162/ | Price: 5,490
+Title: BILLY / OXBERG | Link: https://www.ikea.com/in/en/p/billy-oxberg-bookcase-with-doors-white-s49528340/ | Price: 2,490
+Title: BILLY | Link: https://www.ikea.com/in/en/p/billy-bookcase-comb-w-foldable-table-white-s69590661/ | Price: 15,370
+Title: BILLY / HÖGBO | Link: https://www.ikea.com/in/en/p/billy-hoegbo-bookcase-comb-w-foldable-table-white-s79590745/ | Price: 10,990
+Title: HYLLIS | Link: https://www.ikea.com/in/en/p/hyllis-shelving-unit-in-outdoor-80278579/ | Price: 35,990
+Title: BILLY / EKET | Link: https://www.ikea.com/in/en/p/billy-eket-bookcase-comb-w-foldable-table-white-s79590665/ | Price: 8,390
+Title: KALLAX / LINNMON | Link: https://www.ikea.com/in/en/p/kallax-linnmon-desk-combination-white-s09483447/ | Price: 21,980
+Title: BILLY | Link: https://www.ikea.com/in/en/p/billy-bookcase-white-70522044/ | Price: 30,980
+Title: OXBERG | Link: https://www.ikea.com/in/en/p/oxberg-panel-glass-door-white-30275559/ | Price: 1,990
+Title: KALLAX | Link: https://www.ikea.com/in/en/p/kallax-insert-with-4-shelves-white-40423724/ | Price: 23,290
+Title: BILLY | Link: https://www.ikea.com/in/en/p/billy-bookcase-with-foldable-table-white-80579761/ | Price: 12,580
+Title: SKRUVBY | Link: https://www.ikea.com/in/en/p/skruvby-bookcase-black-blue-90520355/ | Price: 4,990
+Title: BILLY / OXBERG | Link: https://www.ikea.com/in/en/p/billy-oxberg-bookcase-with-glass-doors-white-s39545359/ | Price: 3,000
+Title: HEMNES | Link: https://www.ikea.com/in/en/p/hemnes-storage-combination-w-doors-drawers-grey-green-light-brown-stained-s19591069/ | Price: 3,000
+Title: HEMNES | Link: https://www.ikea.com/in/en/p/hemnes-bookcase-grey-green-light-brown-stained-20596160/ | Price: 16,990
+Title: BILLY / OXBERG | Link: https://www.ikea.com/in/en/p/billy-oxberg-bookcase-with-panel-glass-doors-white-glass-s39545364/ | Price: 6,990
+Title: BILLY / HÖGBO | Link: https://www.ikea.com/in/en/p/billy-hoegbo-bookcase-combination-w-glass-doors-white-s49545354/ | Price: 24,980
+Title: BILLY | Link: https://www.ikea.com/in/en/p/billy-bookcase-combination-brown-walnut-effect-s09525720/ | Price: 94,970
+Title: BILLY / OXBERG | Link: https://www.ikea.com/in/en/p/billy-oxberg-bookcase-combination-w-glass-doors-black-oak-effect-s99483768/ | Price: 22,990
+Title: BURHULT | Link: https://www.ikea.com/in/en/p/burhult-shelf-white-70430520/ | Price: 21,980
+Title: KALLAX | Link: https://www.ikea.com/in/en/p/kallax-shelving-unit-with-underframe-dark-green-black-s89569692/ | Price: 8,990
+Title: JONAXEL | Link: https://www.ikea.com/in/en/p/jonaxel-shelving-unit-white-70431317/ | Price: 17,980
+Title: KALLAX | Link: https://www.ikea.com/in/en/p/kallax-shelving-unit-white-20351884/ | Price: 29,970
+Title: OXBERG | Link: https://www.ikea.com/in/en/p/oxberg-door-white-60275685/ | Price: 27,970
+Title: VITTSJÖ | Link: https://www.ikea.com/in/en/p/vittsjoe-shelving-unit-yellow-glass-50595545/ | Price: 199
+Title: BILLY / OXBERG | Link: https://www.ikea.com/in/en/p/billy-oxberg-bookcase-with-doors-black-oak-effect-s49483638/ | Price: 10,390
+Title: BURHULT / SIBBHULT | Link: https://www.ikea.com/in/en/p/burhult-sibbhult-wall-shelf-white-white-s69325964/ | Price: 3,990
+Title: HAUGA | Link: https://www.ikea.com/in/en/p/hauga-high-cabinet-with-2-doors-white-30415060/ | Price: 8,990
+Title: JONAXEL | Link: https://www.ikea.com/in/en/p/jonaxel-storage-combination-white-s39297142/ | Price: 1,700
+Title: OXBERG | Link: https://www.ikea.com/in/en/p/oxberg-glass-door-white-70275618/ | Price: 3,990
+Title: BILLY | Link: https://www.ikea.com/in/en/p/billy-bookcase-white-s09545327/ | Price: 13,390
+Title: EKENABBEN | Link: https://www.ikea.com/in/en/p/ekenabben-open-shelving-unit-aspen-white-60487814/ | Price: 11,390
+Title: BILLY / HÖGBO | Link: https://www.ikea.com/in/en/p/billy-hoegbo-bookcase-with-glass-doors-white-s89528343/ | Price: 299
+Title: SKRUVBY | Link: https://www.ikea.com/in/en/p/skruvby-storage-combination-black-blue-s69494725/ | Price: 15,990
+Title: BILLY / HÖGBO | Link: https://www.ikea.com/in/en/p/billy-hoegbo-bookcase-combination-w-glass-doors-white-s29528341/ | Price: 2,800
+Title: KRÖNIKÖR | Link: https://www.ikea.com/in/en/p/kroenikoer-open-storage-red-90574598/ | Price: 4,000
+Title: SKRUVBY | Link: https://www.ikea.com/in/en/p/skruvby-storage-combination-black-blue-s19525606/ | Price: 14,970
+Title: KALLAX | Link: https://www.ikea.com/in/en/p/kallax-insert-with-door-white-60351877/ | Price: 6,990
+Title: BILLY | Link: https://www.ikea.com/in/en/p/billy-bookcase-with-glass-doors-green-80594926/ | Price: 15,990
+Title: BERGSHULT / PERSHULT | Link: https://www.ikea.com/in/en/p/bergshult-pershult-wall-shelf-white-white-s89290732/ | Price: 16,980
+Title: BESTÅ | Link: https://www.ikea.com/in/en/p/besta-cabinet-unit-white-s19284999/ | Price: 4,990
+Title: MOSSLANDA | Link: https://www.ikea.com/in/en/p/mosslanda-picture-ledge-white-30297467/ | Price: 2,490
+Title: HÖGBO | Link: https://www.ikea.com/in/en/p/hoegbo-glass-door-white-70517245/ | Price: 22,980
+Title: BILLY | Link: https://www.ikea.com/in/en/p/billy-bookcase-with-drawer-white-s59545297/ | Price: 1,000
+Title: BILLY | Link: https://www.ikea.com/in/en/p/billy-bookcase-with-drawer-white-s39545298/ | Price: 16,990
+Title: BILLY | Link: https://www.ikea.com/in/en/p/billy-bookcase-green-s29580094/ | Price: 1,490
+Title: KALLAX | Link: https://www.ikea.com/in/en/p/kallax-shelving-unit-with-4-drawers-with-2-shelf-inserts-white-s29575988/ | Price: 10,700
+Title: HEMNES | Link: https://www.ikea.com/in/en/p/hemnes-storage-combination-w-doors-drawers-grey-green-light-brown-stained-s99602342/ | Price: 499
+Title: EKET | Link: https://www.ikea.com/in/en/p/eket-wall-mounted-cabinet-combination-white-s99189031/ | Price: 4,000
+Title: KOLBJÖRN | Link: https://www.ikea.com/in/en/p/kolbjoern-cabinet-in-outdoor-beige-00345634/ | Price: 7,490
+Title: BILLY / OXBERG | Link: https://www.ikea.com/in/en/p/billy-oxberg-bookcase-with-panel-glass-doors-white-glass-s69545353/ | Price: 10,490
+Title: BILLY / OXBERG | Link: https://www.ikea.com/in/en/p/billy-oxberg-bookcase-combination-with-doors-white-s19528365/ | Price: 33,980
+Title: BILLY / OXBERG | Link: https://www.ikea.com/in/en/p/billy-oxberg-bookcase-white-s59545396/ | Price: 13,790
+Data saved to C:\Users\2414380\OneDrive - Cognizant\Documents\Final Hackathon\IKEA Automation\data\results.json
+Max number of pages reached: 4
+Successfully scraped all pages.
+208
+CSV file saved to C:\Users\2414380\OneDrive - Cognizant\Documents\Final Hackathon\IKEA Automation\data\ikea_bookshelvespage.csv

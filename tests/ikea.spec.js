@@ -18,12 +18,12 @@ test("Complete IKEA automation flow", async ({ page }) => {
 
   
   // BookShelves Flow
-  await homepage.findShelves();
+  await homepage.performSearch("Book Shelves");
   await booksPage.pagination(2); 
 
   // Study Chair Flow
   await homepage.goHome();
-  await homepage.getChair();
+  await homepage.performSearch("Study Chair");
   await studyPage.openAllFiltersPanel();
   await studyPage.openCustomerRatingFilter();
   await studyPage.applyFourStarRatingFilter();

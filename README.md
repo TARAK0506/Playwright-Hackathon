@@ -177,17 +177,21 @@ This repository provides a complete setup for E2E testing and web scraping using
 ## Key Methods
 
 ### HomePage.js
-- `navigateToHome()` : Navigates to the IKEA India homepage.
+- `goHome()` : Navigates to the IKEA India homepage.
 
-- `searchProduct(productName)` : Executes a product search using the search bar.
+- `findShelves(productName)` : Executes a product search using the search bar
 
+- `getChair(productName)` : Executes a product search using the search bar
+
+- `goToGiftCard()` : Navigate to Giftcard Page.
 ---
 
 ### BooksShelvesPage.js
-- `filterByType()` : Applies category filters to show bookshelf products.
+- `performSearch()` : Applies category filters to show bookshelf products.
 
-- `scrapeProductDetails()` : Scrapes titles, prices, and product links from the bookshelf listing page.
+- `scrapeAllPages()` : Scrapes titles, prices, and product links from the bookshelf listing page.
 
+- `pagination(noofPages)` : Implements pagination.
 ---
 
 ### StudyChairPage.js
@@ -200,7 +204,7 @@ This repository provides a complete setup for E2E testing and web scraping using
 ### GiftCardPage.js
 - `navigateToGiftCards()` : Navigates to the gift card section of the IKEA site.
 
-- `selectGiftValue(value)` : Selects the specified gift card amount for purchase.
+- `chooseGiftCardAmount(value)` : Selects the specified gift card amount for purchase.
 
 ---
 

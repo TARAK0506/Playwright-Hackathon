@@ -8,25 +8,13 @@ class BookShelvesPage extends BasePage {
       this.page = page;
     }
 
-    async clickSearch() {
-        await this.searchLocator.click();
-    }
-
-    async fill(inputText) {
-        await this.searchLocator.fill(inputText);
-    }
-
-    async submitSearch() {
-        await this.page.keyboard.press('Enter');
-    }
-
     async performSearch(inputText) {
         await this.clickSearch();
         await this.fill(inputText);
         await this.submitSearch();
     }
 
-    async waitForResults() {
+    async waitForPage() {
         try {
             await this.productList.first().waitFor({ timeout: 15000 });
             return true;
@@ -34,9 +22,9 @@ class BookShelvesPage extends BasePage {
             console.warn("Search results not found: ", err.message);
             return false;
         }
-    }
+    } 
 
-    async isshowMoreButtonAvailable() {
+    async hasShowMore() {
         try {
             const isVisible = await this.showMore.isVisible();
             const isDisabled = isVisible ? await this.showMore.isDisabled() : true;
@@ -46,6 +34,7 @@ class BookShelvesPage extends BasePage {
             return false;
         }
     }
+
 
     async goToNextPage() {
         try {
@@ -79,6 +68,13 @@ class BookShelvesPage extends BasePage {
         return itemDetails;
     }
 
+
+    async displayPageDetails(pageDetails){
+      pageDetails.forEach(item => {
+        console.log(`Title: ${item.title} | Link: ${item.link} | Price: ${item.price}`);
+      });
+    }
+
     async saveDataToFile(data, filename = 'results.json') {
         try {
           const outputPath = path.resolve(__dirname, `../data/${filename}`);
@@ -108,28 +104,26 @@ class BookShelvesPage extends BasePage {
             break;
           }
 
-          console.log(`\nScraping Page ${pageNum}...`);
+          console.log(`\nScraping data from Page no : ${pageNum}...`);
 
-          const hasResults = await this.waitForResults();
-          if (!hasResults) {
+          const hasLoaded = await this.waitForPage();
+          if (!hasLoaded) {
             console.log('No results found.');
             break;
           }
 
           const pageDetails = await this.getDetails();
 
-          pageDetails.forEach(item => {
-            console.log(`Title: ${item.title} | Link: ${item.link} | Price: ${item.price}`);
-          });
+          // this.displayPageDetails(pageDetails);
 
           allData.push(...pageDetails);
 
           // Save the data after each page
           await this.saveDataToFile(allData);
 
-          if (await this.isshowMoreButtonAvailable()) {
-            const nextPageSuccess = await this.goToNextPage();
-            if (!nextPageSuccess) break;
+          if (await this.hasShowMore()) {
+            const hasNextPage = await this.goToNextPage();
+            if (!hasNextPage) break;
           } else {
             break;
           }
@@ -137,7 +131,7 @@ class BookShelvesPage extends BasePage {
           pageNum++;
         }
 
-        console.log("Successfully scraped all pages.");
+        console.log("Successfully scraped data from all the pages.");
         return allData;
     }
 

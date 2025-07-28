@@ -19,11 +19,11 @@ test.describe("@smoke IKEA Gift Card Purchase Flow", () => {
     await giftcard.openGiftCardPurchaseSection(); 
   });
 
-  test("Should select gift card amount", async () => {
+  test("Should select gift card amount", async ({page}) => {
     await giftcard.chooseGiftCardAmount(5000);
   });
 
-  test("Should fill recipient details", async () => {
+  test("Should fill recipient details", async ({page}) => {
     await giftcard.chooseGiftCardAmount(5000);
     await giftcard.fillRecipientDetails({
       firstName: "Sai",
@@ -34,7 +34,7 @@ test.describe("@smoke IKEA Gift Card Purchase Flow", () => {
     });
   });
 
-  test("Should fill sender details", async () => {
+  test("Should fill sender details", async ({page}) => {
     await giftcard.chooseGiftCardAmount(5000);
     await giftcard.fillRecipientDetails({
       firstName: "Sai",
@@ -49,9 +49,11 @@ test.describe("@smoke IKEA Gift Card Purchase Flow", () => {
       email: "tarakaramarao0506@gmail.com",
       confirmEmail: "tarakaramarao0506@gmail.com",
     });
+
+    await page.close();
   });
 
-  test("Should complete gift card purchase flow", async () => {
+  test("Should complete gift card purchase flow", async ({page}) => {
     await giftcard.chooseGiftCardAmount(5000);
     await giftcard.fillRecipientDetails({
       firstName: "Sai",
@@ -66,5 +68,7 @@ test.describe("@smoke IKEA Gift Card Purchase Flow", () => {
       email: "tarakaramarao0506@gmail.com",
       confirmEmail: "@tarakaramarao0506@gmail.com",
     }); 
+
+    await page.close();
   });
 });

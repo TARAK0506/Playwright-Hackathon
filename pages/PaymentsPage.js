@@ -32,7 +32,7 @@ class PaymentPage {
   async verifyInvalidCardNumberError() {
     try {
       await expect(this.invalidCardErrorMessage).toHaveText("Invalid Card Number");
-      await takeTimestampedScreenshot(this.page, "InvalidCard");
+      // await takeTimestampedScreenshot(this.page, "InvalidCard");
     } catch (error) {
       throw new Error(`Validation message missing or screenshot failed: ${error}`);
     }

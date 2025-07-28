@@ -1,0 +1,5 @@
+Error during navigation to next page: page.waitForNavigation: Timeout 10000ms exceeded.
+=========================== logs ===========================
+waiting for navigation until "load"
+  navigated to "https://www.ikea.com/in/en/search/?q=Book%20Shelves&page=2"
+============================================================

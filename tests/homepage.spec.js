@@ -23,11 +23,11 @@ test.describe("@sanity Homepage & Search Flow", () => {
   });
 
   test("Should search for bookshelves", async () => {
-    await homepage.findShelves();
+    await homepage.performSearch(searchCriteria.booksPage);
   });
 
   test("Should extract bookshelf items into CSV", async () => {
-    await homepage.findShelves();
+    await homepage.performSearch("Book Shelves");
     await booksPage.pagination(2);
   });
 });
