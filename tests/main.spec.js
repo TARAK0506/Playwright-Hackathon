@@ -5,7 +5,7 @@ const BasePage = require('../pages/BasePage');
 const Homepage = require('../pages/HomePage');
 const BookShelvesPage = require('../pages/BookShelvesPage');
 const StudyChairPage = require('../pages/StudyChairPage');
-const GiftcardPage = require('../pages/GiftcardPage');
+const GiftcardPage = require('../pages/GiftCardPage');
 const PaymentPage = require('../pages/PaymentsPage');
 const csvWriter = require('../utils/csvWriter');
 

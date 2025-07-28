@@ -2,7 +2,7 @@ const { test } = require("@playwright/test");
 const Homepage = require("../pages/HomePage");
 const BookshelvesPage = require("../pages/BookShelvesPage");
 const StudyPage = require("../pages/StudyChairPage");
-const GiftcardPage = require("../pages/GiftcardPage");
+const GiftcardPage = require("../pages/GiftCardPage");
 const PaymentPage = require("../pages/PaymentsPage");
 
 test("Complete IKEA automation flow", async ({ page }) => {

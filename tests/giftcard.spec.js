@@ -1,6 +1,6 @@
 const { test, expect } = require("@playwright/test");
 const HomePage = require("../pages/HomePage");
-const GiftCardPage = require('../pages/GiftcardPage');
+const GiftCardPage = require('../pages/GiftCardPage');
 
 test.describe("@smoke IKEA Gift Card Purchase Flow", () => {
   let homepage;
