@@ -28,3 +28,17 @@
 # Exclude temporary test artifacts from archives
 test-output/* export-ignore
 coverage/* export-ignore
+
+
+# .gitattributes
+
+# Ensure text files use LF
+*.js     text eol=lf
+*.css    text eol=lf
+*.csv    text eol=lf
+*.html   text eol=lf
+*.txt    text eol=lf
+
+# Let Git handle others automatically
+*text=auto
+

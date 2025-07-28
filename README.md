@@ -52,8 +52,8 @@ This repository provides a complete setup for E2E testing and web scraping using
 ├── reports/
 │   └── index.html
 ├── screenshots/            # Captured screenshots from failed tests
-|   ├── 
-|   └── 
+|   ├── image.png
+|   └── image2.png
 ├── test-results/
 ├── tests/
 │   ├── main.spec.js
@@ -156,6 +156,23 @@ This repository provides a complete setup for E2E testing and web scraping using
   ```sh
   npx playwright show-report
   ```
+
+
+
+**Generate Allure Reports** :
+1. To Install allure through Command Line 
+```sh
+  npm install allure-playwright
+
+  npm install allure-commandline --save-dev
+```
+2. To Serve Allure reports
+```sh
+ 1. allure generate ./allure-results -o ./allure-report --clean
+ 2. allure open allure-report
+ ```
+
+
 
 ## Key Methods
 
