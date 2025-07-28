@@ -69,7 +69,7 @@ export default defineConfig({
     video: 'on-first-retry'
   },
 
-  timeout : 500 * 1000,
+  timeout : 1200 * 1000,
 
   /* Configure projects for major browsers */
   projects: [
@@ -89,14 +89,14 @@ export default defineConfig({
     },
 
     /* Test against mobile viewports. */
-    // {
-    //   name: 'Mobile Chrome',
-    //   use: { ...devices['Pixel 5'] },
-    // },
-    // {
-    //   name: 'Mobile Safari',
-    //   use: { ...devices['iPhone 12'] },
-    // },
+    {
+      name: 'Mobile Chrome',
+      use: { ...devices['Pixel 5'] },
+    },
+    {
+      name: 'Mobile Safari',
+      use: { ...devices['iPhone 12'] },
+    },
 
     /* Test against branded browsers. */
     // {

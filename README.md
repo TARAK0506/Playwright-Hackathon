@@ -43,12 +43,12 @@ This repository provides a complete setup for E2E testing and web scraping using
 │   └── bookspageresults.json
 ├── pages/                 # Page Object classes
 │   ├── BasePage.js
+|   ├── HomePage.js
 │   ├── BooksShelvesPage.js
 |   ├── StudyChairPage.js
 |   ├── GiftCardPage.js
-│   ├── HomePage.js
-│   ├── LocatorsPage.js
-│   └──
+│   ├── PaymentPage.js
+│   
 ├── reports/
 │   └── index.html
 ├── screenshots/            # Captured screenshots from failed tests
@@ -138,6 +138,16 @@ This repository provides a complete setup for E2E testing and web scraping using
 - **Run a specific test using chromium and in headed mode**
   ```sh
   npx playwright test tests/main.spec.js --project chromium --headed
+  ```
+
+- **Run a specific test using chromium and webkit**
+  ```sh
+  npx playwright test tests/main.spec.js --project chromium --project webkit
+  ```
+
+- **Run last failed tests**
+  ```sh
+  npx playwright test --last-failed
   ```
 
 
